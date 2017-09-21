@@ -4,7 +4,8 @@ rm(list=ls()); options(stringsAsFactors = F)
 
 library(limma); library(WGCNA); library(biomaRt); library(sva)
 
-rootdir = "~/Dropbox/GeschwindLab/Projects/CrossDisorder3/"
+home= ## insert your GitHub home directory, ie. "C://Users/me/GitHub/"
+rootdir = paste(home,"Shared-molecular-neuropathology-across-major-psychiatric-disorders-parallels-polygenic-overlap",sep="")
 setwd(rootdir)
 
 
@@ -72,7 +73,7 @@ if(!file.exists("./working_data/Microarray/01_Normalized/Microarray_ASD_Chow_nor
 load("./working_data/Microarray/01_Normalized/Microarray_ASD_Chow_normalized.RData")
 
 
-#pdf("./results/figures/MicroarrayQC/ASD_Chow_QC.pdf", width=11,height=8.5)
+pdf("./results/figures/MicroarrayQC/ASD_Chow_QC.pdf", width=11,height=8.5)
 par(mfrow=c(3,4))
 
 sdout <- 2; normadj <- (0.5+0.5*bicor(datExpr, use='pairwise.complete.obs'))^2
@@ -115,7 +116,7 @@ plot(datMeta$Group, ylim=c(0,20), ylab="Number", main="Subjects")
 A = anova(lm(as.numeric(datMeta$Batch) ~ datMeta$Group)); p = A$"Pr(>F)"[1];   plot(datMeta$Group ~ datMeta$Batch, main=paste("Batch, p=", signif(p,2)), ylab="", xlab="")
 A = anova(lm(as.numeric(datMeta$Group) ~ as.factor(datMeta$ChipID))); p = A$"Pr(>F)"[1];   plot(datMeta$Group ~ as.factor(datMeta$ChipID), main=paste("Chip, p=", signif(p,2)), ylab="", xlab="", xlim=c(0,1))
 A = anova(lm(as.numeric(datMeta$Group) ~ as.factor(datMeta$ChipPosition))); p = A$"Pr(>F)"[1];   plot(datMeta$Group ~ as.factor(datMeta$ChipPosition), main=paste("Chip Position, p=", signif(p,2)), ylab="", xlab="", xlim=c(0,1))
-A = anova(lm(as.numeric(datMeta$Sex) ~ datMeta$Group)); p = A$"Pr(>F)"[1];   plot(datMeta$Sex ~ datMeta$Group, main=paste("Sex, p=1"), ylab="", xlab="")
+#A = anova(lm(as.numeric(datMeta$Sex) ~ datMeta$Group)); p = A$"Pr(>F)"[1];   plot(datMeta$Sex ~ datMeta$Group, main=paste("Sex, p=1"), ylab="", xlab="")
 A = anova(lm((datMeta$Age) ~ datMeta$Group)); p = A$"Pr(>F)"[1];   plot(datMeta$Age ~ datMeta$Group, main=paste("Age, p=", signif(p,2)), ylab="", xlab="")
 A = anova(lm(as.numeric(datMeta$PMI) ~ datMeta$Group)); p = A$"Pr(>F)"[1];   plot(datMeta$PMI ~ datMeta$Group, main=paste("PMI, p=", signif(p,2)), ylab="", xlab="")
 A = anova(lm(as.numeric(datMeta$RIN) ~ datMeta$Group)); p = A$"Pr(>F)"[1];   plot(datMeta$RIN ~ datMeta$Group, main=paste("RIN, p=", signif(p,2)), ylab="", xlab="");

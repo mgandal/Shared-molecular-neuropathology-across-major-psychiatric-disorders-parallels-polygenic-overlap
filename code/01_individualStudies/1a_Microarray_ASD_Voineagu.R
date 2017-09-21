@@ -9,16 +9,17 @@ library(WGCNA); library(lumi); library(ggplot2); library(nlme)
 library(gplots); library(Cairo); library(GEOquery)
 library(biomaRt); library(sva)
 
-rootdir = "~/Dropbox/GeschwindLab/Projects/CrossDisorder3/"
+home= ## insert your GitHub home directory, ie. "C://Users/me/GitHub/"
+rootdir = paste(home,"Shared-molecular-neuropathology-across-major-psychiatric-disorders-parallels-polygenic-overlap",sep="")
 setwd(rootdir)
 
 
 # Step 1) Download and normalize raw microarray data
-if(!file.exists("./working_data/individualStudy/Microarray_ASD_voineagu_normalized.RData")) {
+if(!file.exists("./working_data/Microarray/01_Normalized/Microarray_ASD_voineagu_normalized.RData")) {
   #-----------Load Raw Data----------------------------------------
-  if(!file.exists("./raw_data/Microarray/Voineagu_GSE28521/Voineagu_GSE28521_non-normalized_RawData.csv"))
+  if(!file.exists("./raw_data/Microarray/Voineagu_GSE28521/Voineagu_GSE28521_non-normalized_RawData.csv")){
     download.file("https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE28521&format=file&file=GSE28521%5Fnon%2Dnormalized%5Fdata%2Etxt%2Egz",
-                destfile="./raw_data/Microarray/Voineagu_GSE28521/Voineagu_GSE28521_non-normalized_RawData.csv")
+                destfile="./raw_data/Microarray/Voineagu_GSE28521/Voineagu_GSE28521_non-normalized_RawData.csv")}
 
   data.lumi = lumiR("./raw_data/Microarray/Voineagu_GSE28521/Voineagu_GSE28521_non-normalized_RawData.csv")
   datMeta = read.csv("./raw_data/Microarray/Voineagu_GSE28521/Voineagu_GSE28521_metaData.csv")

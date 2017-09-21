@@ -1,0 +1,103 @@
+,ID,Subject,Filename,Collection,Age,Sex,Race,Profile,DSM,Dx,PMI,pH,Suicide,Psychosis,RD,Exacerbation,Smoking,Alcohol_lifetime,Drugs_lifetime,Antipsychotics,GSM
+1,A-1,Stanley_ArrayCollection_A-1,1-HGU133A,Array,29,M,White,Bipolar,296.54,BP I,48,6.39,Yes,Yes,Sudden,Definite,Yes,Moderate present,Moderate in present,9000,GSM317385
+2,A-10,Stanley_ArrayCollection_A-10,10-HGU133A,Array,40,M,White,Schizophrenia,295.9,SCHIZ UNDIFF,34,6.18,No,Yes,Possible anoxia,Probably Not,Yes,Moderate present,Moderate in present,75000,GSM317393
+3,A-100,Stanley_ArrayCollection_A-100,100-HGU133A,Array,59,F,White,Schizophrenia,295.9,SCHIZ UNDIFF,38,6.93,No,Yes,Sudden,Probably Not,Yes,Heavy in past,Little or none,30000,GSM317481
+4,A-101,Stanley_ArrayCollection_A-101,101-HGU133A,Array,52,M,White,Schizophrenia,295.9,SCHIZ UNDIFF,16,6.52,No,Yes,Possible anoxia,Probably Not,Yes,Social,Little or none,60000,GSM317482
+5,A-102,Stanley_ArrayCollection_A-102,102-HGU133A,Array,48,M,White,Bipolar,296.53,BP I,23,6.9,Yes,No,Sudden,Definite,Yes,Heavy in present,Moderate in past,0,GSM317483
+6,A-103,Stanley_ArrayCollection_A-103,104-HGU133A,Array,19,M,White,Bipolar,296.73,BP I,12,5.978,No,No,Sudden,Probably Not,Unknown,Moderate in past,Heavy in present,2000,GSM317484
+7,A-104,Stanley_ArrayCollection_A-104,103-HGU133A,Array,47,M,White,Control,NA,CONTROL,36,6.57,No,No,Sudden,Unknown,No,Little or none,Little or none,0,GSM317485
+8,A-105,Stanley_ArrayCollection_A-105,105-HGU133A,Array,41,F,White,Control,NA,CONTROL,50,6.177,No,No,Sudden,Unknown,No,Little or none,Little or none,0,GSM317486
+9,A-11,Stanley_ArrayCollection_A-11,11-HGU133A,Array,51,M,White,Schizophrenia,295.9,SCHIZ UNDIFF,43,6.63,No,Yes,Sudden,Probably Not,Yes,Moderate present,Social,130000,GSM317394
+10,A-12,Stanley_ArrayCollection_A-12,12-HGU133A,Array,19,M,White,Schizophrenia,295.9,SCHIZ UNDIFF,28,6.73,No,Yes,Sudden,Probably Not,No,Social,Heavy in present,2500,GSM317395
+11,A-13,Stanley_ArrayCollection_A-13,13-HGU133A,Array,49,F,White,Bipolar,296.44,BP I,19,5.87,Yes,Yes,Sudden,Definite,Yes,Little or none,Little or none,4000,GSM317396
+12,A-14,Stanley_ArrayCollection_A-14,14-HGU133A,Array,48,F,White,Bipolar,296.7,BP I,18,6.5,No,Unknown,Sudden,Probably Not,Yes,Social,Moderate in present,0,GSM317397
+13,A-15,Stanley_ArrayCollection_A-15,15-HGU133A,Array,44,F,White,Control,NA,CONTROL,28,6.59,No,No,Sudden,Unknown,Unknown,Moderate present,Little or none,0,GSM317398
+14,A-16,Stanley_ArrayCollection_A-16,16-HGU133A,Array,42,M,White,Bipolar,296.8,BP NOS,32,6.65,No,Unknown,Sudden,Probably Not,Yes,Heavy in present,Heavy in present,0,GSM317399
+15,A-17,Stanley_ArrayCollection_A-17,17-HGU133A,Array,53,F,White,Schizophrenia,295.9,SCHIZ UNDIFF,13,6.49,No,Yes,Sudden,Probably Not,Yes,Heavy in present,Little or none,15000,GSM317400
+16,A-18,Stanley_ArrayCollection_A-18,18-HGU133A,Array,35,M,White,Bipolar,296.54,BP I,35,6.3,No,Yes,Sudden,Definite,Yes,Social,Moderate in past,30000,GSM317401
+17,A-19,Stanley_ArrayCollection_A-19,19-HGU133A,Array,49,M,White,Control,NA,CONTROL,46,6.5,No,No,Sudden,Unknown,No,Little or none,Little or none,0,GSM317402
+18,A-2,Stanley_ArrayCollection_A-2,2-HGU133A,Array,29,M,White,Bipolar,296.89,BP II,60,6.7,Yes,No,Possible anoxia,Definite,Unknown,Heavy in present,Heavy in present,0,GSM317386
+19,A-20,Stanley_ArrayCollection_A-20,20-HGU133A,Array,59,F,White,Bipolar,296.5,BP I,53,6.2,Yes,Yes,Sudden,Definite,Unknown,Social,Little or none,0,GSM317403
+20,A-21,Stanley_ArrayCollection_A-21,21-HGU133A,Array,54,M,White,Bipolar,296.89,BP II,44,6.5,Yes,No,Sudden,Definite,Unknown,Moderate in past,Moderate in past,0,GSM317404
+21,A-22,Stanley_ArrayCollection_A-22,22-HGU133A,Array,37,M,White,Schizophrenia,295.9,SCHIZ UNDIFF,30,6.8,No,Yes,Sudden,Probably Not,Unknown,Heavy in present,Heavy in present,20000,GSM317405
+22,A-23,Stanley_ArrayCollection_A-23,23-HGU133A,Array,35,F,White,Bipolar,296.54,BP I,17,6.1,Yes,Yes,Possible anoxia,Definite,Unknown,Social,Little or none,3000,GSM317406
+23,A-24,Stanley_ArrayCollection_A-24,24-HGU133A,Array,53,M,White,Control,NA,CONTROL,9,6.4,No,No,Sudden,Unknown,Unknown,Social,Little or none,0,GSM317407
+24,A-25,Stanley_ArrayCollection_A-25,25-HGU133A,Array,52,M,White,Schizophrenia,295.1,SCHIZ DISORGANIZED,10,6.1,No,Yes,Sudden,Probably Not,Yes,Little or none,Little or none,100000,GSM317408
+25,A-26,Stanley_ArrayCollection_A-26,26-HGU133A,Array,24,M,White,Schizophrenia,295.9,SCHIZ UNDIFF,15,6.2,Yes,Yes,Sudden,Definite,Yes,Heavy in present,Heavy in present,12000,GSM317409
+26,A-27,Stanley_ArrayCollection_A-27,27-HGU133A,Array,37,M,White,Control,NA,CONTROL,13,6.5,No,No,Sudden,Unknown,Yes,Little or none,Little or none,0,GSM317410
+27,A-28,Stanley_ArrayCollection_A-28,28-HGU133A,Array,45,M,Non-White,Bipolar,296.8,BP NOS,35,6.03,No,Yes,Sudden,Probably Not,Unknown,Heavy in present,Heavy in present,20000,GSM317411
+28,A-29,Stanley_ArrayCollection_A-29,29-HGU133A,Array,51,M,White,Control,NA,CONTROL,31,6.7,No,No,Sudden,Unknown,No,Social,Little or none,0,GSM317412
+29,A-3,Stanley_ArrayCollection_A-3,3-HGU133A,Array,43,M,White,Schizophrenia,295.9,SCHIZ UNDIFF,26,6.42,No,Yes,Possible anoxia,Probably Not,No,Little or none,Little or none,180000,GSM317387
+30,A-30,Stanley_ArrayCollection_A-30,30-HGU133A,Array,53,M,White,Control,NA,CONTROL,28,6,No,No,Sudden,Unknown,Unknown,Little or none,Little or none,0,GSM317413
+31,A-31,Stanley_ArrayCollection_A-31,31-HGU133A,Array,44,M,White,Schizophrenia,295.9,SCHIZ UNDIFF,9,5.9,No,Yes,Sudden,Definite,Unknown,Moderate present,Moderate in present,350000,GSM317414
+32,A-32,Stanley_ArrayCollection_A-32,32-HGU133A,Array,42,F,White,Bipolar,296.64,BP I,49,6.65,No,Yes,Sudden,Probably Not,Yes,Heavy in past,Moderate in present,15000,GSM317415
+33,A-33,Stanley_ArrayCollection_A-33,33-HGU133A,Array,38,F,White,Control,NA,CONTROL,33,6,No,No,Sudden,Unknown,Unknown,Moderate present,Little or none,0,GSM317416
+34,A-34,Stanley_ArrayCollection_A-34,34-HGU133A,Array,58,F,White,Bipolar,296.54,BP I,35,6.5,Yes,Yes,Sudden,Definite,No,Social,Social,12000,GSM317417
+35,A-35,Stanley_ArrayCollection_A-35,35-HGU133A,Array,38,F,White,Control,NA,CONTROL,28,6.7,No,No,Sudden,Unknown,Unknown,Little or none,Little or none,0,GSM317418
+36,A-36,Stanley_ArrayCollection_A-36,36-HGU133A,Array,41,M,White,NOS,296.8,BP NOS,39,6.6,No,Unknown,Sudden,Probably Not,Yes,Heavy in past,Heavy in present,4000,GSM317419
+37,A-37,Stanley_ArrayCollection_A-37,37-HGU133A,Array,39,M,White,Schizophrenia,295.3,SCHIZ PARANOID,80,6.6,No,Yes,Sudden,Probable or possible,Unknown,Social,Social,120000,GSM317420
+38,A-38,Stanley_ArrayCollection_A-38,38-HGU133A,Array,59,M,White,Control,NA,CONTROL,47,6.8,No,No,Sudden,Unknown,Unknown,Little or none,Little or none,0,GSM317421
+39,A-39,Stanley_ArrayCollection_A-39,39-HGU133A,Array,33,M,White,Schizophrenia,295.9,SCHIZ UNDIFF,29,6.5,No,Yes,Sudden,Probably Not,Yes,Social,Little or none,20000,GSM317422
+40,A-4,Stanley_ArrayCollection_A-4,4-HGU133A,Array,45,M,White,Bipolar,296.44,BP I,28,6.35,No,Yes,Sudden,Probably Not,Unknown,Unknown,Heavy in present,10000,GSM317388
+41,A-40,Stanley_ArrayCollection_A-40,40-HGU133A,Array,50,M,White,Schizophrenia,295.3,SCHIZ PARANOID,9,6.2,No,Yes,Sudden,Probably Not,Yes,Little or none,Little or none,34000,GSM317423
+42,A-41,Stanley_ArrayCollection_A-41,41-HGU133A,Array,43,M,White,Schizophrenia,295.9,SCHIZ UNDIFF,18,6.3,No,Yes,Possible anoxia,Probably Not,Yes,Heavy in present,Heavy in present,90000,GSM317424
+43,A-42,Stanley_ArrayCollection_A-42,42-HGU133A,Array,64,M,White,Bipolar,295.7,SCHIZOAFFECTIVE DISORDER BP TYPE,16,6.1,No,Yes,Slower death,Probably Not,No,Little or none,Little or none,130000,GSM317425
+44,A-43,Stanley_ArrayCollection_A-43,43-HGU133A,Array,35,M,White,Control,NA,CONTROL,52,6.7,No,No,Sudden,Unknown,Unknown,Little or none,Little or none,0,GSM317426
+45,A-44,Stanley_ArrayCollection_A-44,44-HGU133A,Array,32,F,White,Schizophrenia,295.9,SCHIZ UNDIFF,36,6.8,Yes,Yes,Sudden,Definite,Unknown,Little or none,Little or none,10000,GSM317427
+46,A-45,Stanley_ArrayCollection_A-45,45-HGU133A,Array,35,M,White,Schizophrenia,295.3,SCHIZ PARANOID,47,6.4,No,Yes,Sudden,Probably Not,Yes,Little or none,Little or none,200000,GSM317428
+47,A-46,Stanley_ArrayCollection_A-46,46-HGU133A,Array,59,M,White,Bipolar,296.53,BP I,84,6.65,No,No,Sudden,Probably Not,No,Social,Little or none,500,GSM317429
+48,A-47,Stanley_ArrayCollection_A-47,47-HGU133A,Array,44,M,White,Schizophrenia,295.3,SCHIZ PARANOID,32,6.67,No,Yes,Sudden,Probably Not,Yes,Heavy in present,Moderate in past,20000,GSM317430
+49,A-48,Stanley_ArrayCollection_A-48,48-HGU133A,Array,55,F,White,Bipolar,296.44,BP I,41,5.76,No,Yes,Sudden,Probably Not,Yes,Social,Little or none,5000,GSM317431
+50,A-49,Stanley_ArrayCollection_A-49,49-HGU133A,Array,34,M,White,Control,NA,CONTROL,22,6.48,No,No,Sudden,Unknown,Unknown,Little or none,Little or none,0,GSM317432
+51,A-50,Stanley_ArrayCollection_A-50,50-HGU133A,Array,51,F,White,Bipolar,296.54,BP I,77,6.42,Yes,Yes,Sudden,Definite,Unknown,Moderate in past,Little or none,3000,GSM317433
+52,A-52,Stanley_ArrayCollection_A-52,52-HGU133A,Array,45,M,White,Control,NA,CONTROL,29,6.94,No,No,Sudden,Unknown,Yes,Social,Little or none,0,GSM317434
+53,A-53,Stanley_ArrayCollection_A-53,53-HGU133A,Array,34,F,White,Control,NA,CONTROL,24,6.87,No,No,Sudden,Unknown,Unknown,Little or none,Little or none,0,GSM317435
+54,A-54,Stanley_ArrayCollection_A-54,54-HGU133A,Array,42,M,White,Control,NA,CONTROL,37,6.91,No,No,Sudden,Unknown,Yes,Heavy in past,Moderate in present,0,GSM317436
+55,A-55,Stanley_ArrayCollection_A-55,55-HGU133A,Array,47,M,White,Schizophrenia,295.9,SCHIZ UNDIFF,13,6.3,No,Yes,Sudden,Probably Not,Yes,Moderate in past,Social,300000,GSM317437
+56,A-56,Stanley_ArrayCollection_A-56,56-HGU133A,Array,44,F,White,Control,NA,CONTROL,10,6.2,No,No,Sudden,Unknown,No,Little or none,Little or none,0,GSM317438
+57,A-57,Stanley_ArrayCollection_A-57,57-HGU133A,Array,51,M,White,Bipolar,296.44,BP I,23,6.67,No,Yes,Sudden,Definite,Yes,Moderate present,Little or none,1200,GSM317439
+58,A-58,Stanley_ArrayCollection_A-58,58-HGU133A,Array,63,F,White,Bipolar,296.89,BP II,32,6.97,No,No,Sudden,Probably Not,No,Little or none,Little or none,0,GSM317440
+59,A-59,Stanley_ArrayCollection_A-59,59-HGU133A,Array,58,M,White,Control,NA,CONTROL,26,6.4,No,No,Slower death,Unknown,Unknown,Social,Little or none,0,GSM317441
+60,A-6,Stanley_ArrayCollection_A-6,6-HGU133A,Array,29,F,White,Bipolar,296.44,BP I,62,6.74,No,Yes,Sudden,Probably Not,Yes,Moderate present,Heavy in present,0,GSM317389
+61,A-60,Stanley_ArrayCollection_A-60,60-HGU133A,Array,45,M,White,Control,NA,CONTROL,18,6.81,No,No,Sudden,Unknown,No,Little or none,Little or none,0,GSM317442
+62,A-61,Stanley_ArrayCollection_A-61,61-HGU133A,Array,44,F,White,Bipolar,296.74,BP I,37,6.37,No,Yes,Sudden,Definite,Unknown,Little or none,Little or none,30000,GSM317443
+63,A-62,Stanley_ArrayCollection_A-62,62-HGU133A,Array,56,F,White,Bipolar,296.89,BP II,26,6.58,No,Unknown,Sudden,Probably Not,Unknown,Heavy in present,Heavy in past,25000,GSM317444
+64,A-63,Stanley_ArrayCollection_A-63,63-HGU133A,Array,43,F,White,Bipolar,296.64,BP I,39,6.74,Yes,Unknown,Sudden,Definite,No,Moderate in past,Social,4500,GSM317445
+65,A-64,Stanley_ArrayCollection_A-64,64-HGU133A,Array,35,M,White,Bipolar,296.74,BP I,22,6.58,No,Yes,Sudden,Probably Not,Yes,Moderate in past,Moderate in past,2000,GSM317446
+66,A-65,Stanley_ArrayCollection_A-65,65-HGU133A,Array,49,M,White,Control,NA,CONTROL,23,6.93,No,No,Sudden,Unknown,No,Social,Little or none,0,GSM317447
+67,A-66,Stanley_ArrayCollection_A-66,66-HGU133A,Array,45,M,White,Schizophrenia,295.9,SCHIZ UNDIFF,35,6.66,No,Yes,Sudden,Probably Not,Yes,Heavy in present,Moderate in past,50,GSM317448
+68,A-67,Stanley_ArrayCollection_A-67,67-HGU133A,Array,32,M,White,Control,NA,CONTROL,24,7.03,No,No,Sudden,Unknown,No,Moderate in past,Little or none,0,GSM317449
+69,A-68,Stanley_ArrayCollection_A-68,68-HGU133A,Array,36,F,White,Schizophrenia,295.9,SCHIZ UNDIFF,27,6.49,Yes,Yes,Sudden,Definite,Unknown,Little or none,Moderate in past,600,GSM317450
+70,A-69,Stanley_ArrayCollection_A-69,69-HGU133A,Array,50,F,White,Bipolar,296.54,BP I,62,6.51,Yes,Yes,Sudden,Definite,No,Social,Moderate in past,15000,GSM317451
+71,A-7,Stanley_ArrayCollection_A-7,7-HGU133A,Array,31,M,White,Schizophrenia,295.3,SCHIZ PARANOID,33,6.2,No,Yes,Sudden,Probably Not,Yes,Heavy in present,Heavy in past,35000,GSM317390
+72,A-70,Stanley_ArrayCollection_A-70,70-HGU133A,Array,55,M,White,Control,NA,CONTROL,31,6.7,No,No,Sudden,Unknown,Yes,Social,Little or none,0,GSM317452
+73,A-71,Stanley_ArrayCollection_A-71,71-HGU133A,Array,49,F,White,Control,NA,CONTROL,45,6.72,No,No,Sudden,Unknown,Yes,Little or none,Little or none,0,GSM317453
+74,A-72,Stanley_ArrayCollection_A-72,72-HGU133A,Array,49,F,White,Bipolar,296.54,BP I,38,6.39,No,Yes,Sudden,Probably Not,Yes,Heavy in present,Social,0,GSM317454
+75,A-73,Stanley_ArrayCollection_A-73,73-HGU133A,Array,54,M,White,Schizophrenia,295.9,SCHIZ UNDIFF,38,6.17,No,Yes,Sudden,Probably Not,Yes,Moderate in past,Unknown,120000,GSM317455
+76,A-74,Stanley_ArrayCollection_A-74,74-HGU133A,Array,33,F,White,Bipolar,296.53,BP I,24,6.51,Yes,No,Sudden,Definite,Unknown,Heavy in present,Moderate in past,3000,GSM317456
+77,A-75,Stanley_ArrayCollection_A-75,75-HGU133A,Array,54,F,White,Schizophrenia,295.9,SCHIZ UNDIFF,42,6.65,No,Yes,Possible anoxia,Probably Not,Yes,Little or none,Little or none,400000,GSM317457
+78,A-76,Stanley_ArrayCollection_A-76,76-HGU133A,Array,41,F,White,Bipolar,296.72,BP I,28,6.44,No,No,Sudden,Probably Not,Yes,Heavy in past,Heavy in present,3000,GSM317458
+79,A-77,Stanley_ArrayCollection_A-77,77-HGU133A,Array,33,F,White,Control,NA,CONTROL,29,6.52,No,No,Sudden,Unknown,Unknown,Little or none,Social,0,GSM317459
+80,A-78,Stanley_ArrayCollection_A-78,78-HGU133A,Array,44,F,White,Schizophrenia,295.9,SCHIZ UNDIFF,26,6.58,No,Yes,Sudden,Probably Not,Yes,Little or none,Little or none,50000,GSM317460
+81,A-79,Stanley_ArrayCollection_A-79,79-HGU133A,Array,48,M,White,Control,NA,CONTROL,31,6.86,No,No,Sudden,Unknown,Unknown,Little or none,Little or none,0,GSM317461
+82,A-8,Stanley_ArrayCollection_A-8,8-HGU133A,Array,44,M,White,Bipolar,296.53,BP I,19,6.74,Yes,No,Sudden,Definite,Unknown,Moderate in past,Social,0,GSM317391
+83,A-80,Stanley_ArrayCollection_A-80,80-HGU133A,Array,50,M,White,Control,NA,CONTROL,49,6.75,No,No,Sudden,Unknown,Yes,Social,Little or none,0,GSM317462
+84,A-81,Stanley_ArrayCollection_A-81,81-HGU133A,Array,47,F,White,Schizophrenia,295.9,SCHIZ UNDIFF,30,6.47,No,Yes,Sudden,Probably Not,Yes,Social,Little or none,15000,GSM317463
+85,A-82,Stanley_ArrayCollection_A-82,82-HGU133A,Array,39,M,White,Schizophrenia,295.9,SCHIZ UNDIFF,26,6.8,Yes,Yes,Sudden,Definite,No,Little or none,Little or none,48000,GSM317464
+86,A-83,Stanley_ArrayCollection_A-83,83-HGU133A,Array,32,M,White,Control,NA,CONTROL,13,6.57,No,No,Sudden,Unknown,Unknown,Little or none,Little or none,0,GSM317465
+87,A-84,Stanley_ArrayCollection_A-84,84-HGU133A,Array,47,M,White,Control,NA,CONTROL,11,6.6,No,No,Sudden,Unknown,No,Little or none,Social,0,GSM317466
+88,A-85,Stanley_ArrayCollection_A-85,85-HGU133A,Array,38,M,Non-White,Schizophrenia,295.9,SCHIZ UNDIFF,35,6.68,No,Yes,Sudden,Probably Not,Yes,Heavy in present,Heavy in present,15000,GSM317467
+89,A-86,Stanley_ArrayCollection_A-86,86-HGU133A,Array,46,M,White,Control,NA,CONTROL,31,6.67,No,No,Sudden,Unknown,Unknown,Social,Little or none,0,GSM317468
+90,A-87,Stanley_ArrayCollection_A-87,87-HGU133A,Array,41,M,White,Schizophrenia,295.9,SCHIZ UNDIFF,54,6.18,No,Yes,Sudden,Probably Not,No,Little or none,Little or none,115000,GSM317469
+91,A-88,Stanley_ArrayCollection_A-88,88-HGU133A,Array,43,M,White,Schizophrenia,295.9,SCHIZ UNDIFF,65,6.67,Yes,Yes,Sudden,Definite,Unknown,Social,Social,70000,GSM317470
+92,A-9,Stanley_ArrayCollection_A-9,9-HGU133A,Array,45,F,White,Schizophrenia,295.3,SCHIZ PARANOID,52,6.51,Yes,Yes,Sudden,Definite,Unknown,Heavy in past,Heavy in past,20000,GSM317392
+93,A-90,Stanley_ArrayCollection_A-90,90-HGU133A,Array,40,M,White,Control,NA,CONTROL,38,6.67,No,No,Sudden,Unknown,Yes,Social,Little or none,0,GSM317471
+94,A-91,Stanley_ArrayCollection_A-91,91-HGU133A,Array,51,M,White,Control,NA,CONTROL,22,6.71,No,No,Sudden,Unknown,Unknown,Social,Little or none,0,GSM317472
+95,A-92,Stanley_ArrayCollection_A-92,92-HGU133A,Array,42,M,White,Schizophrenia,295.9,SCHIZ UNDIFF,26,6.19,Yes,Yes,Sudden,Definite,Unknown,Heavy in present,Heavy in present,10000,GSM317473
+96,A-93,Stanley_ArrayCollection_A-93,93-HGU133A,Array,47,F,White,Schizophrenia,295.3,SCHIZ PARANOID,35,6.5,No,Yes,Sudden,Probably Not,Yes,Social,Unknown,90000,GSM317474
+97,A-94,Stanley_ArrayCollection_A-94,94-HGU133A,Array,42,M,White,Schizophrenia,295.3,SCHIZ PARANOID,19,6.48,No,Yes,Sudden,Probably Not,Yes,Heavy in past,Heavy in past,18000,GSM317475
+98,A-95,Stanley_ArrayCollection_A-95,95-HGU133A,Array,31,M,White,Control,NA,CONTROL,11,6.13,No,No,Sudden,Unknown,Unknown,Social,Social,0,GSM317476
+99,A-96,Stanley_ArrayCollection_A-96,96-HGU133A,Array,48,M,White,Control,NA,CONTROL,24,6.91,No,No,Sudden,Unknown,Unknown,Social,Social,0,GSM317477
+100,A-97,Stanley_ArrayCollection_A-97,97-HGU133A,Array,46,M,White,Schizophrenia,295.9,SCHIZ UNDIFF,30,6.72,No,Yes,Possible anoxia,Probably Not,Yes,Moderate in past,Moderate in present,200000,GSM317478
+101,A-98,Stanley_ArrayCollection_A-98,98-HGU133A,Array,56,M,White,Bipolar,296.54,BP I,23,6.07,Yes,Yes,Sudden,Definite,Unknown,Heavy in past,Little or none,10000,GSM317479
+102,A-99,Stanley_ArrayCollection_A-99,99-HGU133A,Array,39,F,White,Control,NA,CONTROL,58,6.46,No,No,Sudden,Unknown,Yes,Heavy in past,Little or none,0,GSM317480

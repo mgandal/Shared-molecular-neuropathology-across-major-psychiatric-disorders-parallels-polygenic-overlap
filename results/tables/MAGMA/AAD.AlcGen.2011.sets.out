@@ -1,0 +1,18 @@
+# MEAN_SAMPLE_SIZE = 23347
+# TOTAL_GENES = 36186
+# CONDITIONED_INTERNAL = genesize, log_genesize, genedensity, log_genedensity, inverse_mac, log_inverse_mac
+SET          NGENES       BETA   BETA_STD         SE            P
+yellow          765     0.0239    0.00344     0.0282      0.19813
+blue            981   -0.00741    -0.0012     0.0255      0.61425
+green           698     0.0161    0.00221     0.0287       0.2875
+grey           4774     0.0106     0.0036     0.0124      0.19509
+tan             108     0.0332    0.00181     0.0753       0.3298
+brown           795    -0.0308   -0.00452     0.0272      0.87177
+black           383     0.0115    0.00118      0.039      0.38373
+turquoise      1032     0.0401    0.00667     0.0245     0.051197
+salmon          108      0.057    0.00311     0.0754      0.22489
+pink            227    -0.0258   -0.00203     0.0512      0.69266
+magenta         156     0.0203    0.00133     0.0565      0.35983
+red             341     0.0724      0.007     0.0415     0.040301
+purple          147      -0.07   -0.00445     0.0637      0.86392
+greenyellow     123    -0.0615   -0.00358     0.0708      0.80744

@@ -1,0 +1,39 @@
+*********************************************************************
+* LD Score Regression (LDSC)
+* Version 1.0.0
+* (C) 2014-2015 Brendan Bulik-Sullivan and Hilary Finucane
+* Broad Institute of MIT and Harvard / MIT Department of Mathematics
+* GNU General Public License v3
+*********************************************************************
+Call:
+./ldsc.py \
+--h2 /hp_shares/mgandal/datasets/GWAS/DeprSx.SSGAC.2016/DeprSx.SSGAC.2016.sumstats.gz \
+--ref-ld-chr /hp_shares/mgandal/datasets/LDscore/CrossDisorderLDSC/CDmod/cd.mod.,/hp_shares/mgandal/datasets/LDscore/1000G_Phase1/baseline/baseline. \
+--out /hp_shares/mgandal/datasets/LDscore/CrossDisorderLDSC/DeprSx.SSGAC.2016 \
+--overlap-annot  \
+--frqfile-chr /hp_shares/mgandal/datasets/LDscore/1000G_Phase1/1000G_frq/1000G.mac5eur. \
+--w-ld-chr /hp_shares/mgandal/datasets/LDscore/weights_hm3_no_hla/weights. \
+--print-coefficients
+
+Beginning analysis at Mon Jun  5 11:15:18 2017
+Reading summary statistics from /hp_shares/mgandal/datasets/GWAS/DeprSx.SSGAC.2016/DeprSx.SSGAC.2016.sumstats.gz ...
+Read summary statistics for 5518428 SNPs.
+Reading reference panel LD Score from /hp_shares/mgandal/datasets/LDscore/CrossDisorderLDSC/CDmod/cd.mod.,/hp_shares/mgandal/datasets/LDscore/1000G_Phase1/baseline/baseline.[1-22] ...
+Read reference panel LD Scores for 1189907 SNPs.
+Removing partitioned LD Scores with zero variance.
+Reading regression weight LD Score from /hp_shares/mgandal/datasets/LDscore/weights_hm3_no_hla/weights.[1-22] ...
+Read regression weight LD Scores for 1242190 SNPs.
+After merging with reference panel LD, 1028677 SNPs remain.
+After merging with regression SNP LD, 1026159 SNPs remain.
+Removed 0 SNPs with chi^2 > 161.46 (1026159 SNPs remain)
+Total Observed scale h2: 0.0401 (0.0037)
+Total Liability scale h2: 0.0401 (0.0037)
+Categories: cd_blackL2_0 cd_blueL2_0 cd_brownL2_0 cd_greenL2_0 cd_greenyellowL2_0 cd_magentaL2_0 cd_pinkL2_0 cd_purpleL2_0 cd_redL2_0 cd_salmonL2_0 cd_tanL2_0 cd_turquoiseL2_0 cd_yellowL2_0 base_1 Coding_UCSC_1 Coding_UCSC.extend.500_1 Conserved_LindbladToh_1 Conserved_LindbladToh.extend.500_1 CTCF_Hoffman_1 CTCF_Hoffman.extend.500_1 DGF_ENCODE_1 DGF_ENCODE.extend.500_1 DHS_peaks_Trynka_1 DHS_Trynka_1 DHS_Trynka.extend.500_1 Enhancer_Andersson_1 Enhancer_Andersson.extend.500_1 Enhancer_Hoffman_1 Enhancer_Hoffman.extend.500_1 FetalDHS_Trynka_1 FetalDHS_Trynka.extend.500_1 H3K27ac_Hnisz_1 H3K27ac_Hnisz.extend.500_1 H3K27ac_PGC2_1 H3K27ac_PGC2.extend.500_1 H3K4me1_peaks_Trynka_1 H3K4me1_Trynka_1 H3K4me1_Trynka.extend.500_1 H3K4me3_peaks_Trynka_1 H3K4me3_Trynka_1 H3K4me3_Trynka.extend.500_1 H3K9ac_peaks_Trynka_1 H3K9ac_Trynka_1 H3K9ac_Trynka.extend.500_1 Intron_UCSC_1 Intron_UCSC.extend.500_1 PromoterFlanking_Hoffman_1 PromoterFlanking_Hoffman.extend.500_1 Promoter_UCSC_1 Promoter_UCSC.extend.500_1 Repressed_Hoffman_1 Repressed_Hoffman.extend.500_1 SuperEnhancer_Hnisz_1 SuperEnhancer_Hnisz.extend.500_1 TFBS_ENCODE_1 TFBS_ENCODE.extend.500_1 Transcribed_Hoffman_1 Transcribed_Hoffman.extend.500_1 TSS_Hoffman_1 TSS_Hoffman.extend.500_1 UTR_3_UCSC_1 UTR_3_UCSC.extend.500_1 UTR_5_UCSC_1 UTR_5_UCSC.extend.500_1 WeakEnhancer_Hoffman_1 WeakEnhancer_Hoffman.extend.500_1
+Lambda GC: 1.1333
+Mean Chi^2: 1.1558
+Intercept: 1.0119 (0.0075)
+Ratio: 0.0764 (0.0481)
+Reading annot matrix from /hp_shares/mgandal/datasets/LDscore/CrossDisorderLDSC/CDmod/cd.mod.,/hp_shares/mgandal/datasets/LDscore/1000G_Phase1/baseline/baseline.[1-22] ...
+Results printed to /hp_shares/mgandal/datasets/LDscore/CrossDisorderLDSC/DeprSx.SSGAC.2016.results
+Analysis finished at Mon Jun  5 11:25:55 2017
+Total time elapsed: 10.0m:36.47s

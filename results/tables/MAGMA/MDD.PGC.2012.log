@@ -1,0 +1,45 @@
+Welcome to MAGMA v1.05b (linux/s)
+Using flags:
+	--bfile /hp_shares/mgandal/datasets/MAGMA/Ref/g1000
+	--gene-annot /hp_shares/mgandal/datasets/MAGMA/Ref/hg19_gencodeV19_magma.genes.annot
+	--set-annot /hp_shares/mgandal/datasets/MAGMA/CrossDisorder/CDmods_ensg_ForMagma.txt col=1,2
+	--pval /hp_shares/mgandal/datasets/GWAS/MDD.PGC.2012/MDD.PGC.2012_full.2012-04_hg18.txt N=18759
+	--out /hp_shares/mgandal/datasets/MAGMA/CrossDisorder/MDD.PGC.2012
+
+Start time is 16:36:20, Tuesday 01 Nov 2016
+
+Loading PLINK-format data...
+Reading file /hp_shares/mgandal/datasets/MAGMA/Ref/g1000.fam... 379 individuals read
+Reading file /hp_shares/mgandal/datasets/MAGMA/Ref/g1000.bim... 11158088 SNPs read
+Preparing file /hp_shares/mgandal/datasets/MAGMA/Ref/g1000.bed... 
+Reading SNP p-values from file /hp_shares/mgandal/datasets/GWAS/MDD.PGC.2012/MDD.PGC.2012_full.2012-04_hg18.txt... 
+	detected 11 variables in file
+	using variable: SNP (SNP id)
+	using variable: P (p-value)
+	read 1235111 lines from file, containing valid SNP p-values for 1194453 SNPs in data (96.71%)
+
+Loading gene annotation from file /hp_shares/mgandal/datasets/MAGMA/Ref/hg19_gencodeV19_magma.genes.annot... 
+	47702 gene definitions read from file
+	found 31844 genes containing SNPs in genotype data
+
+Starting gene analysis... 
+	using model: SNPwise-sum
+	writing gene analysis results to file /hp_shares/mgandal/datasets/MAGMA/CrossDisorder/MDD.PGC.2012.genes.out
+	writing intermediate output to file /hp_shares/mgandal/datasets/MAGMA/CrossDisorder/MDD.PGC.2012.genes.raw
+
+Loading gene-set annotation...
+Reading file /hp_shares/mgandal/datasets/MAGMA/CrossDisorder/CDmods_ensg_ForMagma.txt... 
+	detected 2 variables in file
+	using variable: variable 1 (gene ID)
+	using variable: variable 2 (set ID)
+	found 14 gene sets containing genes defined in genotype data (containing a total of 10258 unique genes)
+
+Starting gene-level analysis...
+	conditioning competitive gene-set analysis and gene covariate analysis on variables:	
+		genesize, log_genesize (internal)
+		genedensity, log_genedensity (internal)
+		inverse_mac, log_inverse_mac (internal)
+	writing gene-set analysis results to file /hp_shares/mgandal/datasets/MAGMA/CrossDisorder/MDD.PGC.2012.sets.out
+
+
+End time is 16:40:46, Tuesday 01 Nov 2016 (elapsed: 00:04:26)

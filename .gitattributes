@@ -1,0 +1,5 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+*DataFile.txt filter=lfs diff=lfs merge=lfs -text
+raw_data/GWAS/ASD.iPSYCH.2017.txt.gz filter=lfs diff=lfs merge=lfs -text
+./Granlund/atle_mage_ml_atle_mage_ml_nonorm_nobkgd_ArrayExpress_DataFile.txt filter=lfs diff=lfs merge=lfs -text
+./raw_data/Microarray/Granlund/atle_mage_ml_atle_mage_ml_nonorm_nobkgd_ArrayExpress_DataFile.txt filter=lfs diff=lfs merge=lfs -text

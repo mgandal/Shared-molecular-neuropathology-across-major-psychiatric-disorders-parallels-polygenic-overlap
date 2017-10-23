@@ -1,0 +1,9 @@
+Summary statistics for iPSYCH ASD GWAS
+
+SNP CHR BP A1 A2 MAF Imputation Imputation_Info OR SE STAT P
+
+Description of Data:
+DNA was extracted and amplified from dried neonatal bloodspots stored in the Danish Neonatal Screening Biobank and then genotyped in 23 waves using the Illumina Infinium PsychArray v1.0.  SNP genotypes underwent extensive quality control both by individual (>99% call rate, concordant genotype and recorded sex, typical levels of heterozygosity, non-duplicated samples) and by SNP (good clustering, >97.5% call rate, Hardy-Weinberg equilibrium, no association with genotyping wave).  Data from all genotyping waves were merged together, phased using SHAPEIT3 (https://mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html), imputed to the 1000 genomes phase 3 reference haplotypes using Impute2 (52, 53) and cleaned again (info score > 0.2, MAF > 0.001, good and comparable quality in cases and controls) resulting in 11,600,723 estimated SNP dosages for analysis.  We used principal components analysis implemented in Eigensoft (smartPCA; (54)) to select individuals with homogenous genetic ancestry and estimated pairwise relatedness with KING (55), removing individuals to ensure no pair was related closer than 2nd degree relatives, leaving 65,534 individuals. We defined cases as the subset of the remaining cohort with autism as the only ascertained diagnosis (N=8,605 of 12,371 possible autism cases; ICD codes F84.0, F84.1, F84.5, F84.8 and/or F84.9), while our controls (N=19,526) were the subset of the random cohort with no diagnoses in the Danish Psychiatry Research Register, ascertained or otherwise (ICD F00-F99). GWAS summary statistics were generated using logistic regression in plink v1.9 (56) including age, sex and ten genetic ancestry PCs as covariates
+
+
+

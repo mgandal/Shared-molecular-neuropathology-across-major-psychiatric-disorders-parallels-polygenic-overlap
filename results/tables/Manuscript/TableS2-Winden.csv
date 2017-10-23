@@ -1,0 +1,17 @@
+"Module","Mitochondria","Enrichment","FDR"
+"yellow","Synaptic",0.545086299852912,1
+"blue","Synaptic",0.0439187435609997,1
+"green","Synaptic",4.81371286121129,1.30869008850154e-16
+"tan","Synaptic",0.74947606489894,1
+"turquoise","Synaptic",1.06041335131886,0.997948912676253
+"salmon","Synaptic",7.0042779279009,1.65320453648836e-05
+"purple","Synaptic",1.85012018741854,0.320188992784662
+"greenyellow","Synaptic",0,1
+"yellow","Non-Synaptic",0.896498592243477,1
+"blue","Non-Synaptic",0.196816538020183,1
+"green","Non-Synaptic",2.4037002987164,9.04976806200863e-05
+"tan","Non-Synaptic",0.656898775210534,1
+"turquoise","Non-Synaptic",1.40502698747669,0.26299201603108
+"salmon","Non-Synaptic",4.32184708176134,0.00480876876913701
+"purple","Non-Synaptic",4.41515419629402,3.61277797474492e-05
+"greenyellow","Non-Synaptic",0.656898775210534,1

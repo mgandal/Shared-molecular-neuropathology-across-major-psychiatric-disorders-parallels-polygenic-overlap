@@ -1,0 +1,331 @@
+GSM,GSE,REGION,GROUP,Subject,TITLE,Pair,HU.number,DSM.IV.Diagnoses,MOD,COD,Sex,Age,Race,PMI,pH,RNA.ratio,RIN,Hand.Preference,Meds.ATOD,Tob.ATOD
+GSM1318990,GSE54565,ACC,Control,HU685,Control matched sample pair anterior cingulate cortex MD1_ACC #1,1,685,none,Natural,Hypoplastic Coronary Artery ,M,56,W,14.5,7.1,1.7,8.1,R,O,U
+GSM1318991,GSE54565,ACC,Control,HU789,Control matched sample pair anterior cingulate cortex MD1_ACC #2,2,789,none,Accidental,Asphyxiation ,M,22,W,20.1,7,2,7.8,R,N,N
+GSM1318992,GSE54565,ACC,Control,HU795,Control matched sample pair anterior cingulate cortex MD1_ACC #4,3,795,none,Natural,Ruptured Abdominal Aortic Aneurysm,M,68,W,11.8,6.8,1.6,8.2,R,N,N
+GSM1318993,GSE54565,ACC,Control,HU615,Control matched sample pair anterior cingulate cortex MD1_ACC #5,4,615,none,Natural,Ruptured Abdominal Aortic Aneurysm,M,62,W,7.2,6.4,1.35,7.8,R,N,N
+GSM1318994,GSE54565,ACC,Control,HU551,Control matched sample pair anterior cingulate cortex MD1_ACC #6,5,551,none,Natural,Cardiac Tamponade,M,61,W,16.4,6.6,1.26,8.3,R,O,U
+GSM1318995,GSE54565,ACC,Control,HU634,Control matched sample pair anterior cingulate cortex MD1_ACC #7,6*,634,none,Natural,ASCVD,M,52,W,16.2,7,1.9,8.5,L,N,U
+GSM1318996,GSE54565,ACC,Control,HU713,Control matched sample pair anterior cingulate cortex MD1_ACC #9,7*,713,none,Natural,ASCVD,M,58,W,37.5,7,1.55,8.4,U,U,Y
+GSM1318997,GSE54565,ACC,Control,HU736,Control matched sample pair anterior cingulate cortex MD1_ACC #10,8,736,none,Natural,ASCVD,M,54,W,15.5,6.9,1.56,8.3,L,N,N
+GSM1318998,GSE54565,ACC,Control,HU1086,Control matched sample pair anterior cingulate cortex MD1_ACC #11,9,1086,none,Natural,ASCVD,M,51,W,24.2,6.8,1.36,8.1,R,N,Y
+GSM1318999,GSE54565,ACC,Control,HU857,Control matched sample pair anterior cingulate cortex MD1_ACC #12,10,857,none,Natural,ASCVD,M,48,W,16.6,6.7,2.03,8.9,L,N,Y
+GSM1319000,GSE54565,ACC,Control,HU1122,Control matched sample pair anterior cingulate cortex MD1_ACC #13,11,1122,none,Natural,Cardiac Tamponade,M,55,W,15.4,6.7,1.4,7.9,R,O,Y
+GSM1319001,GSE54565,ACC,Control,HU852,Control matched sample pair anterior cingulate cortex MD1_ACC #15,12,852,none,Natural,Cardiac Tamponade,M,54,W,8,6.9,1.79,9.1,R,N,Y
+GSM1319002,GSE54565,ACC,Control,HU1067,Control matched sample pair anterior cingulate cortex MD1_ACC #17,13,1067,none,Natural,Hypertensive Heart Disease,M,49,W,6,6.6,1.44,8.2,R,O,N
+GSM1319003,GSE54565,ACC,Control,HU1031,Control matched sample pair anterior cingulate cortex MD1_ACC #18,14,1031,none,Natural,ASCVD,M,53,W,23.2,6.8,1.5,8.9,R,N,N
+GSM1319004,GSE54565,ACC,Control,HU604,Control matched sample pair anterior cingulate cortex MD1_ACC #19,15,604,none,Natural,Hypoplastic Coronary Artery,M,39,W,19.3,7.1,2.11,8.6,R,N,N
+GSM1319005,GSE54565,ACC,Control,HU1047,Control matched sample pair anterior cingulate cortex MD1_ACC #20,16,1047,none,Natural,ASCVD,M,43,W,13.8,6.6,1.83,9,R,O,N
+GSM1319006,GSE54565,ACC,MDD,HU505,MDD matched sample pair anterior cingulate cortex MD1_ACC #1,1,505,"Major Depressive Disorder, recurrent, severe without psychotic features; ADC",Suicide,Gunshot,M,57,W,12.8,7.1,1.8,8.9,R,N,Y
+GSM1319007,GSE54565,ACC,MDD,HU513,MDD matched sample pair anterior cingulate cortex MD1_ACC #2,2,513,"Major Depressive Disorder, recurrent, severe with psychotic features; ODC",Suicide,Hanging,M,24,W,13.1,6.9,1.9,9,R,N,Y
+GSM1319008,GSE54565,ACC,MDD,HU598,MDD matched sample pair anterior cingulate cortex MD1_ACC #4,3,598,"Major Depressive Disorder, single episode, severe without psychotic features; OAR",Suicide,Gunshot,M,69,W,5.9,7.3,1.61,8.8,R,D O,Y
+GSM1319009,GSE54565,ACC,MDD,HU600,MDD matched sample pair anterior cingulate cortex MD1_ACC #5,4,600,"Major Depressive Disorder, single episode, severe without psychotic features",Suicide,Hanging,M,63,W,9.9,6.7,1.71,7.1,R,O,N
+GSM1319010,GSE54565,ACC,MDD,HU613,MDD matched sample pair anterior cingulate cortex MD1_ACC #6,5,613,"Major Depressive Disorder, recurrent, severe with psychotic features; AAR",Suicide,Gunshot,M,59,W,15.6,7,1.9,9.1,R,O,N
+GSM1319011,GSE54565,ACC,MDD,HU619,MDD matched sample pair anterior cingulate cortex MD1_ACC #7,6*,619,"Major Depressive Disorder, severe without psychotic features; ODR",Suicide,Gunshot,M,55,W,18.8,6.9,1.33,7.9,L,B D,Y
+GSM1319012,GSE54565,ACC,MDD,HU698,MDD matched sample pair anterior cingulate cortex MD1_ACC #9,7*,698,"Major Depressive Disorder, single episode, severe with psychotic features",Suicide,Hanging,M,59,W,13,6.8,1.5,9,R,D O P,N
+GSM1319013,GSE54565,ACC,MDD,HU783,MDD matched sample pair anterior cingulate cortex MD1_ACC #10,8,783,"Major Depressive Disorder, recurrent, in full remission",Natural,Dissection of the aorta,M,63,W,11.5,6.5,1.36,8.8,R,O,N
+GSM1319014,GSE54565,ACC,MDD,HU863,MDD matched sample pair anterior cingulate cortex MD1_ACC #11,9,863,"Major Depressive Disorder, single episode, severe without psychotic features",Natural,ASCVD,M,51,W,28.3,7.3,1.52,8.4,R,N,N
+GSM1319015,GSE54565,ACC,MDD,HU868,MDD matched sample pair anterior cingulate cortex MD1_ACC #12,10,868,"Major Depressive Disorder, recurrent, severe without psychotic features; ADC; OAC",Accidental,Trauma,M,47,W,10.5,6.8,1.5,9.3,M,N,N
+GSM1319016,GSE54565,ACC,MDD,HU926,MDD matched sample pair anterior cingulate cortex MD1_ACC #13,11,926,"Major Depressive Disorder, single episode, severe without psychotic features; AAR",Natural,Arteriosclerotic and Hypertensive Heart Disease,M,56,W,19,7,1.38,7.3,R,D O,Y
+GSM1319017,GSE54565,ACC,MDD,HU1001,MDD matched sample pair anterior cingulate cortex MD1_ACC #15,12,1001,"Major Depressive Disorder, single episode, in full remission",Natural,Arteriosclerotic and Hypertensive Heart Disease,M,53,W,7.3,6.6,1.38,7.6,R,O,Y
+GSM1319018,GSE54565,ACC,MDD,HU1049,MDD matched sample pair anterior cingulate cortex MD1_ACC #17,13,1049,"Major Depressive Disorder, single episode, severe without psychotic features",Natural,Cardiomyopathy,M,48,W,5.4,6.6,1.45,8.4,R,D O,N
+GSM1319019,GSE54565,ACC,MDD,HU809,MDD matched sample pair anterior cingulate cortex MD1_ACC #18,14,809,"Major Depressive Disorder, single episode, in full remission",Natural,ASCVD,M,50,W,20,6.9,1.52,8.5,R,D O,Y
+GSM1319020,GSE54565,ACC,MDD,HU1060,MDD matched sample pair anterior cingulate cortex MD1_ACC #19,15,1060,"Major Depressive Disorder, single episode, in full remission; AAC",Suicide,Hanging,M,30,W,11.1,6.6,1.32,8.3,R,O,N
+GSM1319021,GSE54565,ACC,MDD,HU943,MDD matched sample pair anterior cingulate cortex MD1_ACC #20,16,943,"Major Depressive Disorder, recurrent, in partial remission; ADC; OAC; ODR",Suicide,Gunshot,M,56,W,15.4,6.6,1.49,8.2,R,O,Y
+GSM1319022,GSE54566,AMY,Control,HU685,Control matched sample pair amygdala MD1_AMY #1,1,685,none,Natural,Hypoplastic Coronary Artery ,M,56,W,14.5,7.1,1.7,8.1,R,O,U
+GSM1319023,GSE54566,AMY,Control,HU789,Control matched sample pair amygdala MD1_AMY #2,2,789,none,Accidental,Asphyxiation ,M,22,W,20.1,7,2,7.8,R,N,N
+GSM1319024,GSE54566,AMY,Control,HU795,Control matched sample pair amygdala MD1_AMY #4,3,795,none,Natural,Ruptured Abdominal Aortic Aneurysm,M,68,W,11.8,6.8,1.6,8.2,R,N,N
+GSM1319025,GSE54566,AMY,Control,HU615,Control matched sample pair amygdala MD1_AMY #5,4,615,none,Natural,Ruptured Abdominal Aortic Aneurysm,M,62,W,7.2,6.4,1.35,7.8,R,N,N
+GSM1319026,GSE54566,AMY,Control,HU713,Control matched sample pair amygdala MD1_AMY #9,7*,713,none,Natural,ASCVD,M,58,W,37.5,7,1.55,8.4,U,U,Y
+GSM1319027,GSE54566,AMY,Control,HU736,Control matched sample pair amygdala MD1_AMY #10,8,736,none,Natural,ASCVD,M,54,W,15.5,6.9,1.56,8.3,L,N,N
+GSM1319028,GSE54566,AMY,Control,HU1086,Control matched sample pair amygdala MD1_AMY #11,9,1086,none,Natural,ASCVD,M,51,W,24.2,6.8,1.36,8.1,R,N,Y
+GSM1319029,GSE54566,AMY,Control,HU857,Control matched sample pair amygdala MD1_AMY #12,10,857,none,Natural,ASCVD,M,48,W,16.6,6.7,2.03,8.9,L,N,Y
+GSM1319030,GSE54566,AMY,Control,HU1122,Control matched sample pair amygdala MD1_AMY #13,11,1122,none,Natural,Cardiac Tamponade,M,55,W,15.4,6.7,1.4,7.9,R,O,Y
+GSM1319031,GSE54566,AMY,Control,HU852,Control matched sample pair amygdala MD1_AMY #15,12,852,none,Natural,Cardiac Tamponade,M,54,W,8,6.9,1.79,9.1,R,N,Y
+GSM1319032,GSE54566,AMY,Control,HU1067,Control matched sample pair amygdala MD1_AMY #17,13,1067,none,Natural,Hypertensive Heart Disease,M,49,W,6,6.6,1.44,8.2,R,O,N
+GSM1319033,GSE54566,AMY,Control,HU1031,Control matched sample pair amygdala MD1_AMY #18,14,1031,none,Natural,ASCVD,M,53,W,23.2,6.8,1.5,8.9,R,N,N
+GSM1319034,GSE54566,AMY,Control,HU604,Control matched sample pair amygdala MD1_AMY #19,15,604,none,Natural,Hypoplastic Coronary Artery,M,39,W,19.3,7.1,2.11,8.6,R,N,N
+GSM1319035,GSE54566,AMY,Control,HU1047,Control matched sample pair amygdala MD1_AMY #20,16,1047,none,Natural,ASCVD,M,43,W,13.8,6.6,1.83,9,R,O,N
+GSM1319036,GSE54566,AMY,MDD,HU505,MDD matched sample pair amygdala MD1_AMY #1,1,505,"Major Depressive Disorder, recurrent, severe without psychotic features; ADC",Suicide,Gunshot,M,57,W,12.8,7.1,1.8,8.9,R,N,Y
+GSM1319037,GSE54566,AMY,MDD,HU513,MDD matched sample pair amygdala MD1_AMY #2,2,513,"Major Depressive Disorder, recurrent, severe with psychotic features; ODC",Suicide,Hanging,M,24,W,13.1,6.9,1.9,9,R,N,Y
+GSM1319038,GSE54566,AMY,MDD,HU598,MDD matched sample pair amygdala MD1_AMY #4,3,598,"Major Depressive Disorder, single episode, severe without psychotic features; OAR",Suicide,Gunshot,M,69,W,5.9,7.3,1.61,8.8,R,D O,Y
+GSM1319039,GSE54566,AMY,MDD,HU600,MDD matched sample pair amygdala MD1_AMY #5,4,600,"Major Depressive Disorder, single episode, severe without psychotic features",Suicide,Hanging,M,63,W,9.9,6.7,1.71,7.1,R,O,N
+GSM1319040,GSE54566,AMY,MDD,HU698,MDD matched sample pair amygdala MD1_AMY #9,7*,698,"Major Depressive Disorder, single episode, severe with psychotic features",Suicide,Hanging,M,59,W,13,6.8,1.5,9,R,D O P,N
+GSM1319041,GSE54566,AMY,MDD,HU783,MDD matched sample pair amygdala MD1_AMY #10,8,783,"Major Depressive Disorder, recurrent, in full remission",Natural,Dissection of the aorta,M,63,W,11.5,6.5,1.36,8.8,R,O,N
+GSM1319042,GSE54566,AMY,MDD,HU863,MDD matched sample pair amygdala MD1_AMY #11,9,863,"Major Depressive Disorder, single episode, severe without psychotic features",Natural,ASCVD,M,51,W,28.3,7.3,1.52,8.4,R,N,N
+GSM1319043,GSE54566,AMY,MDD,HU868,MDD matched sample pair amygdala MD1_AMY #12,10,868,"Major Depressive Disorder, recurrent, severe without psychotic features; ADC; OAC",Accidental,Trauma,M,47,W,10.5,6.8,1.5,9.3,M,N,N
+GSM1319044,GSE54566,AMY,MDD,HU926,MDD matched sample pair amygdala MD1_AMY #13,11,926,"Major Depressive Disorder, single episode, severe without psychotic features; AAR",Natural,Arteriosclerotic and Hypertensive Heart Disease,M,56,W,19,7,1.38,7.3,R,D O,Y
+GSM1319045,GSE54566,AMY,MDD,HU1001,MDD matched sample pair amygdala MD1_AMY #15,12,1001,"Major Depressive Disorder, single episode, in full remission",Natural,Arteriosclerotic and Hypertensive Heart Disease,M,53,W,7.3,6.6,1.38,7.6,R,O,Y
+GSM1319046,GSE54566,AMY,MDD,HU1049,MDD matched sample pair amygdala MD1_AMY #17,13,1049,"Major Depressive Disorder, single episode, severe without psychotic features",Natural,Cardiomyopathy,M,48,W,5.4,6.6,1.45,8.4,R,D O,N
+GSM1319047,GSE54566,AMY,MDD,HU809,MDD matched sample pair amygdala MD1_AMY #18,14,809,"Major Depressive Disorder, single episode, in full remission",Natural,ASCVD,M,50,W,20,6.9,1.52,8.5,R,D O,Y
+GSM1319048,GSE54566,AMY,MDD,HU1060,MDD matched sample pair amygdala MD1_AMY #19,15,1060,"Major Depressive Disorder, single episode, in full remission; AAC",Suicide,Hanging,M,30,W,11.1,6.6,1.32,8.3,R,O,N
+GSM1319049,GSE54566,AMY,MDD,HU943,MDD matched sample pair amygdala MD1_AMY #20,16,943,"Major Depressive Disorder, recurrent, in partial remission; ADC; OAC; ODR",Suicide,Gunshot,M,56,W,15.4,6.6,1.49,8.2,R,O,Y
+GSM1318878,GSE54562,ACC,Control,HU1462,Control matched sample pair anterior cingulate cortex MD2_ACC #1,22,1462,none,Natural,ASCVD,M,47,W,17.2,6.6,2,8.5,R,N,N
+GSM1318879,GSE54562,ACC,Control,HU1374,Control matched sample pair anterior cingulate cortex MD2_ACC #2,29,1374,none,Natural,ASCVD,M,43,W,21.7,6.6,1.8,7.2,R,O,Y
+GSM1318880,GSE54562,ACC,Control,HU1394,Control matched sample pair anterior cingulate cortex MD2_ACC #4,40,1394,none,Natural,ASCVD,M,45,W,17.3,6.6,1.9,7.3,R,N,N
+GSM1318881,GSE54562,ACC,Control,HU1372,Control matched sample pair anterior cingulate cortex MD2_ACC #5,41,1372,none,Accidental,Asphyxiation ,M,37,W,20.5,6.6,1.6,9,U,O,U
+GSM1318882,GSE54562,ACC,Control,HU1031,Control matched sample pair anterior cingulate cortex MD2_ACC #6,14,1031,none,Natural,ASCVD,M,53,W,23.2,6.8,1.5,8.9,R,N,N
+GSM1318883,GSE54562,ACC,Control,HU1317,Control matched sample pair anterior cingulate cortex MD2_ACC #7,37,1317,none,Natural,ASCVD,M,56,W,22.9,6.5,1.2,8.8,L,O,Y
+GSM1318884,GSE54562,ACC,Control,HU1214,Control matched sample pair anterior cingulate cortex MD2_ACC #8,38,1214,none,Natural,ASCVD,M,57,W,16.4,6.4,1.7,7.5,R,O,N
+GSM1318885,GSE54562,ACC,Control,HU1129,Control matched sample pair anterior cingulate cortex MD2_ACC #9,26,1129,none,Natural,ASCVD,M,54,W,21,6.8,1.5,9,R,N,N
+GSM1318886,GSE54562,ACC,Control,HU1439,Control matched sample pair anterior cingulate cortex MD2_ACC #10,31,1439,none,Natural,Subarachnoid hemorrhage,M,56,W,16.1,6.8,2.1,7.7,R,O,Y
+GSM1318887,GSE54562,ACC,Control,HU1444,Control matched sample pair anterior cingulate cortex MD2_ACC #12,33,1444,none,Natural,Pulmonary Thomboembolus,M,46,W,22,6.5,2.1,8.4,R,N,N
+GSM1318888,GSE54562,ACC,MDD,HU1013,MDD matched sample pair anterior cingulate cortex MD2_ACC #1,22,1013,"Major Depressive Disorder, recurrent, severe without psychotic features",Suicide,Nailgun wound,M,46,W,16.1,6.3,1.5,8,R,N,N
+GSM1318889,GSE54562,ACC,MDD,HU1226,MDD matched sample pair anterior cingulate cortex MD2_ACC #2,29,1226,"Major Depressive Disorder, recurrent, severe without psychotic features; ODC; ODR; OAC; OAR",Natural,ASCVD,M,44,W,19.3,6.5,1.7,7.5,R,N,Y
+GSM1318890,GSE54562,ACC,MDD,HU10010,MDD matched sample pair anterior cingulate cortex MD2_ACC #4,40,10010,"Major Depressive Disorder, recurrent, severe with psychotic features; AAR",Suicide,Amitriptyline overdose,M,42,W,14.3,6.4,1.8,7.6,R,C D O,N
+GSM1318891,GSE54562,ACC,MDD,HU10031,MDD matched sample pair anterior cingulate cortex MD2_ACC #5,41,10031,"Major Depressive Disorder, recurrent, severe without psychotic features; ADC; OAR",Accidental,Combined drug overdose,M,36,W,20,6.8,2,8.9,R,C D P,Y
+GSM1318892,GSE54562,ACC,MDD,HU1312,MDD matched sample pair anterior cingulate cortex MD2_ACC #6,36,1312,"Major Depressive Disorder, recurrent, severe without psychotic features; ADR; ODC",Accidental,Combined drug overdose,M,51,W,24.6,6.5,1.6,8.5,R,O,N
+GSM1318893,GSE54562,ACC,MDD,HU1320,MDD matched sample pair anterior cingulate cortex MD2_ACC #7,37,1320,"Major Depressive Disorder, recurrent, moderate; ADC",Natural,ASCVD,M,55,W,24.4,6.5,1.3,7.2,R,N,Y
+GSM1318894,GSE54562,ACC,MDD,HU1389,MDD matched sample pair anterior cingulate cortex MD2_ACC #8,42,1389,"Major Depressive Disorder, recurrent, severe without psychotic features; ADC",Natural,ASCVD,M,61,W,16,6.6,1.9,8.4,R,N,N
+GSM1318895,GSE54562,ACC,MDD,HU1161,MDD matched sample pair anterior cingulate cortex MD2_ACC #9,26,1161,"Major Depressive Disorder, recurrent, in partial remission; ADR",Natural ,ASCVD,M,57,W,15.9,6.6,2,7.6,U,D O,Y
+GSM1318896,GSE54562,ACC,MDD,HU1253,MDD matched sample pair anterior cingulate cortex MD2_ACC #10,31,1253,"Major Depressive Disorder, recurrent, in partial remission; ADC; ODC",Natural,ASCVD,M,58,W,12.5,6.8,1.9,8.1,R,C D O,Y
+GSM1318897,GSE54562,ACC,MDD,HU1261,MDD matched sample pair anterior cingulate cortex MD2_ACC #12,33,1261,"Major Depressive Disorder, recurrent, moderate; ADC; ODC; OAR",Accidental,Electrocution,M,46,W,22.8,6.6,1.9,8.8,R,D O,N
+GSM1319050,GSE54567,BA9,Control,HU612,Control matched sample pair brain dorsolateral prefrontal cortex BA9_M #1,1,612,none,Accidental,Aspiration,M,60,W,9.6,6.8,1.5,9,R,N,U
+GSM1319051,GSE54567,BA9,Control,HU789,Control matched sample pair brain dorsolateral prefrontal cortex BA9_M #2,2,789,none,Accidental,Asphyxiation ,M,22,W,20.1,7,2,7.8,R,N,N
+GSM1319052,GSE54567,BA9,Control,HU615,Control matched sample pair brain dorsolateral prefrontal cortex BA9_M #4,4,615,none,Natural,Ruptured Abdominal Aortic Aneurysm,M,62,W,7.2,6.4,1.35,7.8,R,N,N
+GSM1319053,GSE54567,BA9,Control,HU1447,Control matched sample pair brain dorsolateral prefrontal cortex BA9_M #7,7,1447,none,Natural,ASCVD,M,51,W,16.2,6.5,1.8,8.5,R,N,N
+GSM1319054,GSE54567,BA9,Control,HU1462,Control matched sample pair brain dorsolateral prefrontal cortex BA9_M #11,22,1462,none,Natural,ASCVD,M,47,W,17.2,6.6,2,8.5,R,N,N
+GSM1319055,GSE54567,BA9,Control,HU1129,Control matched sample pair brain dorsolateral prefrontal cortex BA9_M #15,26,1129,none,Natural,ASCVD,M,54,W,21,6.8,1.5,9,R,N,N
+GSM1319056,GSE54567,BA9,Control,HU795,Control matched sample pair brain dorsolateral prefrontal cortex BA9_M #18,3,795,none,Natural,Ruptured Abdominal Aortic Aneurysm,M,68,W,11.8,6.8,1.6,8.2,R,N,N
+GSM1319057,GSE54567,BA9,Control,HU1439,Control matched sample pair brain dorsolateral prefrontal cortex BA9_M #20,31,1439,none,Natural,Subarachnoid hemorrhage,M,56,W,16.1,6.8,2.1,7.7,R,O,Y
+GSM1319058,GSE54567,BA9,Control,HU1444,Control matched sample pair brain dorsolateral prefrontal cortex BA9_M #22,33,1444,none,Natural,Pulmonary Thomboembolus,M,46,W,22,6.5,2.1,8.4,R,N,N
+GSM1319059,GSE54567,BA9,Control,HU1031,Control matched sample pair brain dorsolateral prefrontal cortex BA9_M #25,14,1031,none,Natural,ASCVD,M,53,W,23.2,6.8,1.5,8.9,R,N,N
+GSM1319060,GSE54567,BA9,Control,HU1317,Control matched sample pair brain dorsolateral prefrontal cortex BA9_M #26,37,1317,none,Natural,ASCVD,M,56,W,22.9,6.5,1.2,8.8,L,O,Y
+GSM1319061,GSE54567,BA9,Control,HU1214,Control matched sample pair brain dorsolateral prefrontal cortex BA9_M #27,38,1214,none,Natural,ASCVD,M,57,W,16.4,6.4,1.7,7.5,R,O,N
+GSM1319062,GSE54567,BA9,Control,HU1394,Control matched sample pair brain dorsolateral prefrontal cortex BA9_M #29,40,1394,none,Natural,ASCVD,M,45,W,17.3,6.6,1.9,7.3,R,N,N
+GSM1319063,GSE54567,BA9,Control,HU1372,Control matched sample pair brain dorsolateral prefrontal cortex BA9_M #30,41,1372,none,Accidental,Asphyxiation ,M,37,W,20.5,6.6,1.6,9,U,O,U
+GSM1319064,GSE54567,BA9,MDD,HU505,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_M #1,1,505,"Major Depressive Disorder, recurrent, severe without psychotic features; ADC",Suicide,Gunshot,M,57,W,12.8,7.1,1.8,8.9,R,N,Y
+GSM1319065,GSE54567,BA9,MDD,HU513,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_M #2,2,513,"Major Depressive Disorder, recurrent, severe with psychotic features; ODC",Suicide,Hanging,M,24,W,13.1,6.9,1.9,9,R,N,Y
+GSM1319066,GSE54567,BA9,MDD,HU613,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_M #4,5,613,"Major Depressive Disorder, recurrent, severe with psychotic features; AAR",Suicide,Gunshot,M,59,W,15.6,7,1.9,9.1,R,O,N
+GSM1319067,GSE54567,BA9,MDD,HU868,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_M #7,10,868,"Major Depressive Disorder, recurrent, severe without psychotic features; ADC; OAC",Accidental,Trauma,M,47,W,10.5,6.8,1.5,9.3,M,N,N
+GSM1319068,GSE54567,BA9,MDD,HU1013,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_M #11,22,1013,"Major Depressive Disorder, recurrent, severe without psychotic features",Suicide,Nailgun wound,M,46,W,16.1,6.3,1.5,8,R,N,N
+GSM1319069,GSE54567,BA9,MDD,HU1161,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_M #15,26,1161,"Major Depressive Disorder, recurrent, in partial remission; ADR",Natural ,ASCVD,M,57,W,15.9,6.6,2,7.6,U,D O,Y
+GSM1319070,GSE54567,BA9,MDD,HU10012,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_M #18,38,10012,"Major Depressive Disorder, recurrent, severe without psychotic features; ODC",Suicide,Hanging,M,49,W,24.2,6.4,1.5,8.8,R,O,Y
+GSM1319071,GSE54567,BA9,MDD,HU1253,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_M #20,31,1253,"Major Depressive Disorder, recurrent, in partial remission; ADC; ODC",Natural,ASCVD,M,58,W,12.5,6.8,1.9,8.1,R,C D O,Y
+GSM1319072,GSE54567,BA9,MDD,HU1261,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_M #22,33,1261,"Major Depressive Disorder, recurrent, moderate; ADC; ODC; OAR",Accidental,Electrocution,M,46,W,22.8,6.6,1.9,8.8,R,D O,N
+GSM1319073,GSE54567,BA9,MDD,HU1312,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_M #25,36,1312,"Major Depressive Disorder, recurrent, severe without psychotic features; ADR; ODC",Accidental,Combined drug overdose,M,51,W,24.6,6.5,1.6,8.5,R,O,N
+GSM1319074,GSE54567,BA9,MDD,HU1320,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_M #26,37,1320,"Major Depressive Disorder, recurrent, moderate; ADC",Natural,ASCVD,M,55,W,24.4,6.5,1.3,7.2,R,N,Y
+GSM1319075,GSE54567,BA9,MDD,HU1389,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_M #27,42,1389,"Major Depressive Disorder, recurrent, severe without psychotic features; ADC",Natural,ASCVD,M,61,W,16,6.6,1.9,8.4,R,N,N
+GSM1319076,GSE54567,BA9,MDD,HU10010,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_M #29,40,10010,"Major Depressive Disorder, recurrent, severe with psychotic features; AAR",Suicide,Amitriptyline overdose,M,42,W,14.3,6.4,1.8,7.6,R,C D O,N
+GSM1319077,GSE54567,BA9,MDD,HU10031,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_M #30,41,10031,"Major Depressive Disorder, recurrent, severe without psychotic features; ADC; OAR",Accidental,Combined drug overdose,M,36,W,20,6.8,2,8.9,R,C D P,Y
+GSM1319168,GSE54572,ACC,Control,HU789,Control matched sample pair brain anterior cingulate cortex ACC_M #2,2,789,none,Accidental,Asphyxiation ,M,22,W,20.1,7,2,7.8,R,N,N
+GSM1319169,GSE54572,ACC,Control,HU615,Control matched sample pair brain anterior cingulate cortex ACC_M #4,4,615,none,Natural,Ruptured Abdominal Aortic Aneurysm,M,62,W,7.2,6.4,1.35,7.8,R,N,N
+GSM1319170,GSE54572,ACC,Control,HU1447,Control matched sample pair brain anterior cingulate cortex ACC_M #7,7,1447,none,Natural,ASCVD,M,51,W,16.2,6.5,1.8,8.5,R,N,N
+GSM1319171,GSE54572,ACC,Control,HU1462,Control matched sample pair brain anterior cingulate cortex ACC_M #11,22,1462,none,Natural,ASCVD,M,47,W,17.2,6.6,2,8.5,R,N,N
+GSM1319172,GSE54572,ACC,Control,HU1129,Control matched sample pair brain anterior cingulate cortex ACC_M #15,26,1129,none,Natural,ASCVD,M,54,W,21,6.8,1.5,9,R,N,N
+GSM1319173,GSE54572,ACC,Control,HU1374,Control matched sample pair brain anterior cingulate cortex ACC_M #18,29,1374,none,Natural,ASCVD,M,43,W,21.7,6.6,1.8,7.2,R,O,Y
+GSM1319174,GSE54572,ACC,Control,HU1439,Control matched sample pair brain anterior cingulate cortex ACC_M #20,31,1439,none,Natural,Subarachnoid hemorrhage,M,56,W,16.1,6.8,2.1,7.7,R,O,Y
+GSM1319175,GSE54572,ACC,Control,HU1444,Control matched sample pair brain anterior cingulate cortex ACC_M #22,33,1444,none,Natural,Pulmonary Thomboembolus,M,46,W,22,6.5,2.1,8.4,R,N,N
+GSM1319176,GSE54572,ACC,Control,HU1031,Control matched sample pair brain anterior cingulate cortex ACC_M #25,14,1031,none,Natural,ASCVD,M,53,W,23.2,6.8,1.5,8.9,R,N,N
+GSM1319177,GSE54572,ACC,Control,HU1317,Control matched sample pair brain anterior cingulate cortex ACC_M #26,37,1317,none,Natural,ASCVD,M,56,W,22.9,6.5,1.2,8.8,L,O,Y
+GSM1319178,GSE54572,ACC,Control,HU1394,Control matched sample pair brain anterior cingulate cortex ACC_M #29,40,1394,none,Natural,ASCVD,M,45,W,17.3,6.6,1.9,7.3,R,N,N
+GSM1319179,GSE54572,ACC,Control,HU1372,Control matched sample pair brain anterior cingulate cortex ACC_M #30,41,1372,none,Accidental,Asphyxiation ,M,37,W,20.5,6.6,1.6,9,U,O,U
+GSM1319180,GSE54572,ACC,MDD,HU513,MDD matched sample pair brain anterior cingulate cortex ACC_M #2,2,513,"Major Depressive Disorder, recurrent, severe with psychotic features; ODC",Suicide,Hanging,M,24,W,13.1,6.9,1.9,9,R,N,Y
+GSM1319181,GSE54572,ACC,MDD,HU613,MDD matched sample pair brain anterior cingulate cortex ACC_M #4,5,613,"Major Depressive Disorder, recurrent, severe with psychotic features; AAR",Suicide,Gunshot,M,59,W,15.6,7,1.9,9.1,R,O,N
+GSM1319182,GSE54572,ACC,MDD,HU868,MDD matched sample pair brain anterior cingulate cortex ACC_M #7,10,868,"Major Depressive Disorder, recurrent, severe without psychotic features; ADC; OAC",Accidental,Trauma,M,47,W,10.5,6.8,1.5,9.3,M,N,N
+GSM1319183,GSE54572,ACC,MDD,HU1013,MDD matched sample pair brain anterior cingulate cortex ACC_M #11,22,1013,"Major Depressive Disorder, recurrent, severe without psychotic features",Suicide,Nailgun wound,M,46,W,16.1,6.3,1.5,8,R,N,N
+GSM1319184,GSE54572,ACC,MDD,HU1161,MDD matched sample pair brain anterior cingulate cortex ACC_M #15,26,1161,"Major Depressive Disorder, recurrent, in partial remission; ADR",Natural ,ASCVD,M,57,W,15.9,6.6,2,7.6,U,D O,Y
+GSM1319185,GSE54572,ACC,MDD,HU1226,MDD matched sample pair brain anterior cingulate cortex ACC_M #18,29,1226,"Major Depressive Disorder, recurrent, severe without psychotic features; ODC; ODR; OAC; OAR",Natural,ASCVD,M,44,W,19.3,6.5,1.7,7.5,R,N,Y
+GSM1319186,GSE54572,ACC,MDD,HU1253,MDD matched sample pair brain anterior cingulate cortex ACC_M #20,31,1253,"Major Depressive Disorder, recurrent, in partial remission; ADC; ODC",Natural,ASCVD,M,58,W,12.5,6.8,1.9,8.1,R,C D O,Y
+GSM1319187,GSE54572,ACC,MDD,HU1261,MDD matched sample pair brain anterior cingulate cortex ACC_M #22,33,1261,"Major Depressive Disorder, recurrent, moderate; ADC; ODC; OAR",Accidental,Electrocution,M,46,W,22.8,6.6,1.9,8.8,R,D O,N
+GSM1319188,GSE54572,ACC,MDD,HU1312,MDD matched sample pair brain anterior cingulate cortex ACC_M #25,36,1312,"Major Depressive Disorder, recurrent, severe without psychotic features; ADR; ODC",Accidental,Combined drug overdose,M,51,W,24.6,6.5,1.6,8.5,R,O,N
+GSM1319189,GSE54572,ACC,MDD,HU1320,MDD matched sample pair brain anterior cingulate cortex ACC_M #26,37,1320,"Major Depressive Disorder, recurrent, moderate; ADC",Natural,ASCVD,M,55,W,24.4,6.5,1.3,7.2,R,N,Y
+GSM1319190,GSE54572,ACC,MDD,HU10010,MDD matched sample pair brain anterior cingulate cortex ACC_M #29,40,10010,"Major Depressive Disorder, recurrent, severe with psychotic features; AAR",Suicide,Amitriptyline overdose,M,42,W,14.3,6.4,1.8,7.6,R,C D O,N
+GSM1319191,GSE54572,ACC,MDD,HU10031,MDD matched sample pair brain anterior cingulate cortex ACC_M #30,41,10031,"Major Depressive Disorder, recurrent, severe without psychotic features; ADC; OAR",Accidental,Combined drug overdose,M,36,W,20,6.8,2,8.9,R,C D P,Y
+GSM1318898,GSE54563,ACC,MDD,HU564,MDD matched sample pair anterior cingulate cortex MD3_ACC #14,43,564,"Major Depressive Disorder, single episode, severe with psychotic features",Suicide,Hanging,F,56,W,16.8,7,1.9,9.2,R,B D O,Y
+GSM1318899,GSE54563,ACC,MDD,HU666,MDD matched sample pair anterior cingulate cortex MD3_ACC #15,44,666,"Major Depressive Disorder, single episode, in partial remission",Accidental,Trauma,F,16,W,10,7.3,2,9.4,R,D,N
+GSM1318900,GSE54563,ACC,MDD,HU803,MDD matched sample pair anterior cingulate cortex MD3_ACC #16,18,803,"Major Depressive Disorder, recurrent, in partial remission",Accidental,Trauma,F,65,W,18,7,1.9,9,R,D O,N
+GSM1318901,GSE54563,ACC,MDD,HU934,MDD matched sample pair anterior cingulate cortex MD3_ACC #17,45,934,"Major Depressive Disorder, recurrent, severe with psychotic features",Natural,ASCVD,F,54,W,17.9,6.5,1.2,8.2,R,D O,N
+GSM1318902,GSE54563,ACC,MDD,HU967,MDD matched sample pair anterior cingulate cortex MD3_ACC #18,20,967,"Major Depressive Disorder, recurrent, moderate; ADC",Natural,ASCVD,F,40,W,22.2,6.6,1.6,7.4,R,N,Y
+GSM1318903,GSE54563,ACC,MDD,HU986,MDD matched sample pair anterior cingulate cortex MD3_ACC #19,21,986,"Major Depressive Disorder, recurrent, severe without psychotic features",Natural,Bronchial asthma,F,53,W,11.9,6.7,1.8,8.7,R,D O,N
+GSM1318904,GSE54563,ACC,MDD,HU1041,MDD matched sample pair anterior cingulate cortex MD3_ACC #20,23,1041,"Major Depressive Disorder, recurrent, severe with psychotic features; AAC; ODC",Accidental,Combined drug overdose,F,52,W,10.3,6.5,1.5,8.4,R,B D O P,Y
+GSM1318905,GSE54563,ACC,MDD,HU1143,MDD matched sample pair anterior cingulate cortex MD3_ACC #21,24,1143,"Major Depressive Disorder, recurrent, severe without psychotic features; ADR; ODC",Accidental,Combined drug overdose,F,49,W,23.4,6.4,1.8,8.1,R,B D O,Y
+GSM1318906,GSE54563,ACC,MDD,HU1157,MDD matched sample pair anterior cingulate cortex MD3_ACC #22,25,1157,"Major Depressive Disorder, recurrent, severe without psychotic features",Suicide,Hanging,F,26,W,13.4,6.4,1.5,7.8,R,D,N
+GSM1318907,GSE54563,ACC,MDD,HU1190,MDD matched sample pair anterior cingulate cortex MD3_ACC #23,27,1190,"Major Depressive Disorder, recurrent, severe without psychotic features; ADC",Suicide,Asphyxiation,F,47,W,22.3,6.6,1.6,8,R,N,Y
+GSM1318908,GSE54563,ACC,MDD,HU1202,MDD matched sample pair anterior cingulate cortex MD3_ACC #24,46,1202,"Major Depressive disorder, recurrent, in partial remission",Natural ,Pulmonary embolism,F,39,W,11.2,6.4,1.8,8,R,D O,Y
+GSM1318909,GSE54563,ACC,MDD,HU1221,MDD matched sample pair anterior cingulate cortex MD3_ACC #25,28,1221,"Major Depressive Disorder, recurrent, severe without psychotic features",Natural,Pulmonary thrombosis,F,28,B,24.8,6.6,1.8,7.2,R,N,N
+GSM1318910,GSE54563,ACC,MDD,HU1249,MDD matched sample pair anterior cingulate cortex MD3_ACC #26,30,1249,"Major Depressive Disorder, recurrent, moderate; ODR",Accidental,Combined drug overdose,F,40,W,11.2,6.5,2,9,M,B C D O,Y
+GSM1318911,GSE54563,ACC,MDD,HU1254,MDD matched sample pair anterior cingulate cortex MD3_ACC #27,32,1254,"Major Depressive Disorder, recurrent, severe without psychotic features",Suicide,Incised wounds,F,39,W,12.8,6.4,1.9,9,R,D,N
+GSM1318912,GSE54563,ACC,MDD,HU1271,MDD matched sample pair anterior cingulate cortex MD3_ACC #28,34,1271,"Major Depressive Disorder, recurrent, severe without psychotic features; ADC; ODC",Accidental,Combined drug overdose,F,50,W,18.6,6.4,1.8,8.6,R,D O,Y
+GSM1318913,GSE54563,ACC,MDD,HU1289,MDD matched sample pair anterior cingulate cortex MD3_ACC #29,47,1289,"Major Depressive Disorder, single episode, mild",Natural,ASCVD,F,46,W,25,6.3,1.4,7.3,R,U,N
+GSM1318914,GSE54563,ACC,MDD,HU1315,MDD matched sample pair anterior cingulate cortex MD3_ACC #30,48,1315,"Major Depressive Disorder, single episode, severe without psychotic features; AAC",Suicide,Hanging,F,28,W,12.4,7,1.5,7.9,L ,N,Y
+GSM1318915,GSE54563,ACC,MDD,HU1332,MDD matched sample pair anterior cingulate cortex MD3_ACC #31,49,1332,"Major Depressive Disorder, recurrent, in partial remission; ADR; ODC",Natural,ASCVD,F,46,W,17.5,6.7,1.6,8.9,R,B D O,Y
+GSM1318916,GSE54563,ACC,MDD,HU1356,MDD matched sample pair anterior cingulate cortex MD3_ACC #32,50,1356,"Major Depressive Disorder, recurrent, in partial remission; AAC",Accidental,Intraperitoneal hemorrhage,F,60,W,20.6,6.1,1.8,8.5,R,D O,N
+GSM1318917,GSE54563,ACC,MDD,HU1360,MDD matched sample pair anterior cingulate cortex MD3_ACC #33,51,1360,"Major Depressive Disorder, single episode, severe without psychotic features; ODC",Suicide,Drowning,F,59,W,18.1,6.4,1.4,7.6,R,D,Y
+GSM1318918,GSE54563,ACC,MDD,HU1408,MDD matched sample pair anterior cingulate cortex MD3_ACC #34,39,1408,"Major Depressive Disorder, recurrent, severe without psychotic features; ADC",Accidental,Trauma,F,37,W,15.5,6.6,1.6,7,R,B D O,N
+GSM1318919,GSE54563,ACC,MDD,HU10028,MDD matched sample pair anterior cingulate cortex MD3_ACC #35,52,10028,"Major Depressive Disorder, single episode, severe without psychotic features",Suicide,Gunshot ,F,72,W,23.1,6.7,1.4,7,R,O,N
+GSM1318920,GSE54563,ACC,Control,HU568,Control matched sample pair anterior cingulate cortex MD3_ACC #14,43,568,none,Natural,ASCVD,F,60,W,9.5,6.9,1.9,8.7,R,N,U
+GSM1318921,GSE54563,ACC,Control,HU10013,Control matched sample pair anterior cingulate cortex MD3_ACC #15,44,10013,none,Accidental,Trauma,F,16,W,9.3,6.7,1.8,9,R,O,N
+GSM1318922,GSE54563,ACC,Control,HU1466,Control matched sample pair anterior cingulate cortex MD3_ACC #16,18,1466,none,Accidental,Trauma,F,64,B,20,6.7,2,8.8,R,O,N
+GSM1318923,GSE54563,ACC,Control,HU1247,Control matched sample pair anterior cingulate cortex MD3_ACC #17,45,1247,none,Natural,ASCVD,F,58,W,22.7,6.4,1.3,8.4,R,O ,N
+GSM1318924,GSE54563,ACC,Control,HU1282,Control matched sample pair anterior cingulate cortex MD3_ACC #18,20,1282,none,Natural,ASCVD,F,39,W,24.5,6.8,1.3,7.5,R,N,N
+GSM1318925,GSE54563,ACC,Control,HU575,Control matched sample pair anterior cingulate cortex MD3_ACC #19,21,575,none,Natural,ASCVD,F,55,B,11.3,6.8,1.8,9.6,R,U,U
+GSM1318926,GSE54563,ACC,Control,HU1391,Control matched sample pair anterior cingulate cortex MD3_ACC #20,23,1391,none,Natural,ASCVD,F,51,W,7.8,6.6,1.6,7.1,L,O,Y
+GSM1318927,GSE54563,ACC,Control,HU686,Control matched sample pair anterior cingulate cortex MD3_ACC #21,24,686,none,Natural,ASCVD,F,52,W,22.6,7.1,1.9,8.5,R,O,Y
+GSM1318928,GSE54563,ACC,Control,HU1034,Control matched sample pair anterior cingulate cortex MD3_ACC #22,25,1034,none,Natural,Endocardial fibroelastosis,F,23,W,8.5,7,2,7.8,R,N,N
+GSM1318929,GSE54563,ACC,Control,HU567,Control matched sample pair anterior cingulate cortex MD3_ACC #23,27,567,none,Natural,Mitral Valve Prolapse,F,46,W,15,6.8,2.3,8.9,R,N,U
+GSM1318930,GSE54563,ACC,Control,HU840,Control matched sample pair anterior cingulate cortex MD3_ACC #24,46,840,"Adjustment Disorder with depressed mood, current; Alcohol Abuse, in remision (20 years)",Natural,ASCVD,F,41,W,15.4,6.8,2,9.1,R,N,Y
+GSM1318931,GSE54563,ACC,Control,HU546,Control matched sample pair anterior cingulate cortex MD3_ACC #25,28,546,Unconfirmed: 'Control' ,Natural,ASCVD,F,37,W,23.5,6.7,2,8.6,U,U,U
+GSM1318932,GSE54563,ACC,Control,HU1092,Control matched sample pair anterior cingulate cortex MD3_ACC #26,30,1092,none,Natural,Mitral Valve Prolapse,F,40,B,16.6,6.8,1.7,8,R,O,N
+GSM1318933,GSE54563,ACC,Control,HU1403,Control matched sample pair anterior cingulate cortex MD3_ACC #27,32,1403,"Adjustment Disorder with mixed anxiety & depressed mood, in remission (8 months)",Natural,ASCVD,F,45,W,12.3,6.7,1.8,8.2,R,O,Y
+GSM1318934,GSE54563,ACC,Control,HU1318,Control matched sample pair anterior cingulate cortex MD3_ACC #28,34,1318,none,Natural,ASCVD,F,58,W,18.8,6.7,2,7.4,L,N,N
+GSM1318935,GSE54563,ACC,Control,HU1280,Control matched sample pair anterior cingulate cortex MD3_ACC #29,47,1280,Unconfirmed: 'Control' ,Natural,Pulmonary thromboembolism,F,50,W,23.5,6.7,1.3,7.7,U,U,U
+GSM1318936,GSE54563,ACC,Control,HU1099,Control matched sample pair anterior cingulate cortex MD3_ACC #30,48,1099,none,Natural,Cardiomyopathy,F,24,W,9.1,6.5,1.9,8.6,R,O,Y
+GSM1318937,GSE54563,ACC,Control,HU627,Control matched sample pair anterior cingulate cortex MD3_ACC #31,49,627,none,Natural,COPD,F,43,B,14.1,7.1,1,7,R,O,N
+GSM1318938,GSE54563,ACC,Control,HU818,Control matched sample pair anterior cingulate cortex MD3_ACC #32,50,818,none,Accidental,Anaphylactic reaction,F,67,W,24,7.1,1.5,8.4,R,O ,N
+GSM1318939,GSE54563,ACC,Control,HU1081,Control matched sample pair anterior cingulate cortex MD3_ACC #33,51,1081,"Alcohol Abuse, in remission (20 years)",Natural,COPD,F,57,W,14.9,6.8,1.8,9,R,B O,N
+GSM1318940,GSE54563,ACC,Control,HU1196,Control matched sample pair anterior cingulate cortex MD3_ACC #34,39,1196,none,Accidental,Asphyxiation,F,36,W,14.5,6.4,1.8,8.2,R,O,N
+GSM1318941,GSE54563,ACC,Control,HU1355,Control matched sample pair anterior cingulate cortex MD3_ACC #35,52,1355,none,Natural,Subarachnoid hemorrhage,F,74,W,24.9,6.6,1.9,7,R,O,N
+GSM1318942,GSE54563,ACC,MDD,HU565,MDD matched sample pair anterior cingulate cortex MD3_ACC #3,17,565,"Major Depressive Disorder, recurrent, severe without psychotic features; AAC; ODR",Suicide,Gunshot,F,62,W,12.5,6.9,2,9.2,L,D,N
+GSM1318943,GSE54563,ACC,MDD,HU860,MDD matched sample pair anterior cingulate cortex MD3_ACC #11,19,860,"Major Depressive Disorder, recurrent; severe with psychotic features",Natural,ASCVD,F,74,W,22.8,7,1.2,8.1,R,B D O P,Y
+GSM1318944,GSE54563,ACC,MDD,HU1272,MDD matched sample pair anterior cingulate cortex MD3_ACC #13,35,1272,"Major Depressive Disorder, recurrent, unspecified; ADC; ODC",Accidental,Asphyxiation,F,64,W,12.1,6.6,1.4,7.8,R,B C D O,Y
+GSM1318945,GSE54563,ACC,Control,HU731,Control matched sample pair anterior cingulate cortex MD3_ACC #3,17,731,none,Natural,ASCVD,F,63,W,10.5,6.8,1.6,8.2,L,N,Y
+GSM1318946,GSE54563,ACC,Control,HU1270,Control matched sample pair anterior cingulate cortex MD3_ACC #11,19,1270,none,Accidental,Trauma,F,73,W,19.7,6.7,1.4,7.7,R,O,N
+GSM1318947,GSE54563,ACC,Control,HU1293,Control matched sample pair anterior cingulate cortex MD3_ACC #13,35,1293,none,Accidental,Trauma,F,65,W,18.5,6.6,1.3,7,R,N,N
+GSM1318948,GSE54564,AMY,MDD,HU564,MDD matched sample pair amygdala MD3_AMY #14,43,564,"Major Depressive Disorder, single episode, severe with psychotic features",Suicide,Hanging,F,56,W,16.8,7,1.9,9.2,R,B D O,Y
+GSM1318949,GSE54564,AMY,MDD,HU666,MDD matched sample pair amygdala MD3_AMY #15,44,666,"Major Depressive Disorder, single episode, in partial remission",Accidental,Trauma,F,16,W,10,7.3,2,9.4,R,D,N
+GSM1318950,GSE54564,AMY,MDD,HU803,MDD matched sample pair amygdala MD3_AMY #16,18,803,"Major Depressive Disorder, recurrent, in partial remission",Accidental,Trauma,F,65,W,18,7,1.9,9,R,D O,N
+GSM1318951,GSE54564,AMY,MDD,HU934,MDD matched sample pair amygdala MD3_AMY #17,45,934,"Major Depressive Disorder, recurrent, severe with psychotic features",Natural,ASCVD,F,54,W,17.9,6.5,1.2,8.2,R,D O,N
+GSM1318952,GSE54564,AMY,MDD,HU967,MDD matched sample pair amygdala MD3_AMY #18,20,967,"Major Depressive Disorder, recurrent, moderate; ADC",Natural,ASCVD,F,40,W,22.2,6.6,1.6,7.4,R,N,Y
+GSM1318953,GSE54564,AMY,MDD,HU986,MDD matched sample pair amygdala MD3_AMY #19,21,986,"Major Depressive Disorder, recurrent, severe without psychotic features",Natural,Bronchial asthma,F,53,W,11.9,6.7,1.8,8.7,R,D O,N
+GSM1318954,GSE54564,AMY,MDD,HU1041,MDD matched sample pair amygdala MD3_AMY #20,23,1041,"Major Depressive Disorder, recurrent, severe with psychotic features; AAC; ODC",Accidental,Combined drug overdose,F,52,W,10.3,6.5,1.5,8.4,R,B D O P,Y
+GSM1318955,GSE54564,AMY,MDD,HU1157,MDD matched sample pair amygdala MD3_AMY #22,25,1157,"Major Depressive Disorder, recurrent, severe without psychotic features",Suicide,Hanging,F,26,W,13.4,6.4,1.5,7.8,R,D,N
+GSM1318956,GSE54564,AMY,MDD,HU1190,MDD matched sample pair amygdala MD3_AMY #23,27,1190,"Major Depressive Disorder, recurrent, severe without psychotic features; ADC",Suicide,Asphyxiation,F,47,W,22.3,6.6,1.6,8,R,N,Y
+GSM1318957,GSE54564,AMY,MDD,HU1202,MDD matched sample pair amygdala MD3_AMY #24,46,1202,"Major Depressive disorder, recurrent, in partial remission",Natural ,Pulmonary embolism,F,39,W,11.2,6.4,1.8,8,R,D O,Y
+GSM1318958,GSE54564,AMY,MDD,HU1221,MDD matched sample pair amygdala MD3_AMY #25,28,1221,"Major Depressive Disorder, recurrent, severe without psychotic features",Natural,Pulmonary thrombosis,F,28,B,24.8,6.6,1.8,7.2,R,N,N
+GSM1318959,GSE54564,AMY,MDD,HU1249,MDD matched sample pair amygdala MD3_AMY #26,30,1249,"Major Depressive Disorder, recurrent, moderate; ODR",Accidental,Combined drug overdose,F,40,W,11.2,6.5,2,9,M,B C D O,Y
+GSM1318960,GSE54564,AMY,MDD,HU1254,MDD matched sample pair amygdala MD3_AMY #27,32,1254,"Major Depressive Disorder, recurrent, severe without psychotic features",Suicide,Incised wounds,F,39,W,12.8,6.4,1.9,9,R,D,N
+GSM1318961,GSE54564,AMY,MDD,HU1271,MDD matched sample pair amygdala MD3_AMY #28,34,1271,"Major Depressive Disorder, recurrent, severe without psychotic features; ADC; ODC",Accidental,Combined drug overdose,F,50,W,18.6,6.4,1.8,8.6,R,D O,Y
+GSM1318962,GSE54564,AMY,MDD,HU1289,MDD matched sample pair amygdala MD3_AMY #29,47,1289,"Major Depressive Disorder, single episode, mild",Natural,ASCVD,F,46,W,25,6.3,1.4,7.3,R,U,N
+GSM1318963,GSE54564,AMY,MDD,HU1315,MDD matched sample pair amygdala MD3_AMY #30,48,1315,"Major Depressive Disorder, single episode, severe without psychotic features; AAC",Suicide,Hanging,F,28,W,12.4,7,1.5,7.9,L ,N,Y
+GSM1318964,GSE54564,AMY,MDD,HU1332,MDD matched sample pair amygdala MD3_AMY #31,49,1332,"Major Depressive Disorder, recurrent, in partial remission; ADR; ODC",Natural,ASCVD,F,46,W,17.5,6.7,1.6,8.9,R,B D O,Y
+GSM1318965,GSE54564,AMY,MDD,HU1356,MDD matched sample pair amygdala MD3_AMY #32,50,1356,"Major Depressive Disorder, recurrent, in partial remission; AAC",Accidental,Intraperitoneal hemorrhage,F,60,W,20.6,6.1,1.8,8.5,R,D O,N
+GSM1318966,GSE54564,AMY,MDD,HU1360,MDD matched sample pair amygdala MD3_AMY #33,51,1360,"Major Depressive Disorder, single episode, severe without psychotic features; ODC",Suicide,Drowning,F,59,W,18.1,6.4,1.4,7.6,R,D,Y
+GSM1318967,GSE54564,AMY,MDD,HU1408,MDD matched sample pair amygdala MD3_AMY #34,39,1408,"Major Depressive Disorder, recurrent, severe without psychotic features; ADC",Accidental,Trauma,F,37,W,15.5,6.6,1.6,7,R,B D O,N
+GSM1318968,GSE54564,AMY,MDD,HU10028,MDD matched sample pair amygdala MD3_AMY #35,52,10028,"Major Depressive Disorder, single episode, severe without psychotic features",Suicide,Gunshot ,F,72,W,23.1,6.7,1.4,7,R,O,N
+GSM1318969,GSE54564,AMY,Control,HU568,Control matched sample pair amygdala MD3_AMY #14,43,568,none,Natural,ASCVD,F,60,W,9.5,6.9,1.9,8.7,R,N,U
+GSM1318970,GSE54564,AMY,Control,HU10013,Control matched sample pair amygdala MD3_AMY #15,44,10013,none,Accidental,Trauma,F,16,W,9.3,6.7,1.8,9,R,O,N
+GSM1318971,GSE54564,AMY,Control,HU1466,Control matched sample pair amygdala MD3_AMY #16,18,1466,none,Accidental,Trauma,F,64,B,20,6.7,2,8.8,R,O,N
+GSM1318972,GSE54564,AMY,Control,HU1247,Control matched sample pair amygdala MD3_AMY #17,45,1247,none,Natural,ASCVD,F,58,W,22.7,6.4,1.3,8.4,R,O ,N
+GSM1318973,GSE54564,AMY,Control,HU1282,Control matched sample pair amygdala MD3_AMY #18,20,1282,none,Natural,ASCVD,F,39,W,24.5,6.8,1.3,7.5,R,N,N
+GSM1318974,GSE54564,AMY,Control,HU575,Control matched sample pair amygdala MD3_AMY #19,21,575,none,Natural,ASCVD,F,55,B,11.3,6.8,1.8,9.6,R,U,U
+GSM1318975,GSE54564,AMY,Control,HU1391,Control matched sample pair amygdala MD3_AMY #20,23,1391,none,Natural,ASCVD,F,51,W,7.8,6.6,1.6,7.1,L,O,Y
+GSM1318976,GSE54564,AMY,Control,HU1034,Control matched sample pair amygdala MD3_AMY #22,25,1034,none,Natural,Endocardial fibroelastosis,F,23,W,8.5,7,2,7.8,R,N,N
+GSM1318977,GSE54564,AMY,Control,HU567,Control matched sample pair amygdala MD3_AMY #23,27,567,none,Natural,Mitral Valve Prolapse,F,46,W,15,6.8,2.3,8.9,R,N,U
+GSM1318978,GSE54564,AMY,Control,HU840,Control matched sample pair amygdala MD3_AMY #24,46,840,"Adjustment Disorder with depressed mood, current; Alcohol Abuse, in remision (20 years)",Natural,ASCVD,F,41,W,15.4,6.8,2,9.1,R,N,Y
+GSM1318979,GSE54564,AMY,Control,HU546,Control matched sample pair amygdala MD3_AMY #25,28,546,Unconfirmed: 'Control' ,Natural,ASCVD,F,37,W,23.5,6.7,2,8.6,U,U,U
+GSM1318980,GSE54564,AMY,Control,HU1092,Control matched sample pair amygdala MD3_AMY #26,30,1092,none,Natural,Mitral Valve Prolapse,F,40,B,16.6,6.8,1.7,8,R,O,N
+GSM1318981,GSE54564,AMY,Control,HU1403,Control matched sample pair amygdala MD3_AMY #27,32,1403,"Adjustment Disorder with mixed anxiety & depressed mood, in remission (8 months)",Natural,ASCVD,F,45,W,12.3,6.7,1.8,8.2,R,O,Y
+GSM1318982,GSE54564,AMY,Control,HU1318,Control matched sample pair amygdala MD3_AMY #28,34,1318,none,Natural,ASCVD,F,58,W,18.8,6.7,2,7.4,L,N,N
+GSM1318983,GSE54564,AMY,Control,HU1280,Control matched sample pair amygdala MD3_AMY #29,47,1280,Unconfirmed: 'Control' ,Natural,Pulmonary thromboembolism,F,50,W,23.5,6.7,1.3,7.7,U,U,U
+GSM1318984,GSE54564,AMY,Control,HU1099,Control matched sample pair amygdala MD3_AMY #30,48,1099,none,Natural,Cardiomyopathy,F,24,W,9.1,6.5,1.9,8.6,R,O,Y
+GSM1318985,GSE54564,AMY,Control,HU627,Control matched sample pair amygdala MD3_AMY #31,49,627,none,Natural,COPD,F,43,B,14.1,7.1,1,7,R,O,N
+GSM1318986,GSE54564,AMY,Control,HU818,Control matched sample pair amygdala MD3_AMY #32,50,818,none,Accidental,Anaphylactic reaction,F,67,W,24,7.1,1.5,8.4,R,O ,N
+GSM1318987,GSE54564,AMY,Control,HU1081,Control matched sample pair amygdala MD3_AMY #33,51,1081,"Alcohol Abuse, in remission (20 years)",Natural,COPD,F,57,W,14.9,6.8,1.8,9,R,B O,N
+GSM1318988,GSE54564,AMY,Control,HU1196,Control matched sample pair amygdala MD3_AMY #34,39,1196,none,Accidental,Asphyxiation,F,36,W,14.5,6.4,1.8,8.2,R,O,N
+GSM1318989,GSE54564,AMY,Control,HU1355,Control matched sample pair amygdala MD3_AMY #35,52,1355,none,Natural,Subarachnoid hemorrhage,F,74,W,24.9,6.6,1.9,7,R,O,N
+GSM1319078,GSE54568,BA9,Control,HU731,Control matched sample pair brain dorsolateral prefrontal cortex BA9_F #3,17,731,none,Natural,ASCVD,F,63,W,10.5,6.8,1.6,8.2,L,N,Y
+GSM1319079,GSE54568,BA9,Control,HU1466,Control matched sample pair brain dorsolateral prefrontal cortex BA9_F #5,18,1466,none,Accidental,Trauma,F,64,B,20,6.7,2,8.8,R,O,N
+GSM1319080,GSE54568,BA9,Control,HU1270,Control matched sample pair brain dorsolateral prefrontal cortex BA9_F #6,19,1270,none,Accidental,Trauma,F,73,W,19.7,6.7,1.4,7.7,R,O,N
+GSM1319081,GSE54568,BA9,Control,HU1247,Control matched sample pair brain dorsolateral prefrontal cortex BA9_F #8,45,1247,none,Natural,ASCVD,F,58,W,22.7,6.4,1.3,8.4,R,O ,N
+GSM1319082,GSE54568,BA9,Control,HU1282,Control matched sample pair brain dorsolateral prefrontal cortex BA9_F #9,20,1282,none,Natural,ASCVD,F,39,W,24.5,6.8,1.3,7.5,R,N,N
+GSM1319083,GSE54568,BA9,Control,HU575,Control matched sample pair brain dorsolateral prefrontal cortex BA9_F #10,21,575,none,Natural,ASCVD,F,55,B,11.3,6.8,1.8,9.6,R,U,U
+GSM1319084,GSE54568,BA9,Control,HU1391,Control matched sample pair brain dorsolateral prefrontal cortex BA9_F #12,23,1391,none,Natural,ASCVD,F,51,W,7.8,6.6,1.6,7.1,L,O,Y
+GSM1319085,GSE54568,BA9,Control,HU686,Control matched sample pair brain dorsolateral prefrontal cortex BA9_F #13,24,686,none,Natural,ASCVD,F,52,W,22.6,7.1,1.9,8.5,R,O,Y
+GSM1319086,GSE54568,BA9,Control,HU1034,Control matched sample pair brain dorsolateral prefrontal cortex BA9_F #14,25,1034,none,Natural,Endocardial fibroelastosis,F,23,W,8.5,7,2,7.8,R,N,N
+GSM1319087,GSE54568,BA9,Control,HU567,Control matched sample pair brain dorsolateral prefrontal cortex BA9_F #16,27,567,none,Natural,Mitral Valve Prolapse,F,46,W,15,6.8,2.3,8.9,R,N,U
+GSM1319088,GSE54568,BA9,Control,HU546,Control matched sample pair brain dorsolateral prefrontal cortex BA9_F #17,28,546,Unconfirmed: 'Control' ,Natural,ASCVD,F,37,W,23.5,6.7,2,8.6,U,U,U
+GSM1319089,GSE54568,BA9,Control,HU1092,Control matched sample pair brain dorsolateral prefrontal cortex BA9_F #19,30,1092,none,Natural,Mitral Valve Prolapse,F,40,B,16.6,6.8,1.7,8,R,O,N
+GSM1319090,GSE54568,BA9,Control,HU1403,Control matched sample pair brain dorsolateral prefrontal cortex BA9_F #21,32,1403,"Adjustment Disorder with mixed anxiety & depressed mood, in remission (8 months)",Natural,ASCVD,F,45,W,12.3,6.7,1.8,8.2,R,O,Y
+GSM1319091,GSE54568,BA9,Control,HU1293,Control matched sample pair brain dorsolateral prefrontal cortex BA9_F #24,35,1293,none,Accidental,Trauma,F,65,W,18.5,6.6,1.3,7,R,N,N
+GSM1319092,GSE54568,BA9,Control,HU1196,Control matched sample pair brain dorsolateral prefrontal cortex BA9_F #28,39,1196,none,Accidental,Asphyxiation,F,36,W,14.5,6.4,1.8,8.2,R,O,N
+GSM1319093,GSE54568,BA9,MDD,HU565,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_F #3,17,565,"Major Depressive Disorder, recurrent, severe without psychotic features; AAC; ODR",Suicide,Gunshot,F,62,W,12.5,6.9,2,9.2,L,D,N
+GSM1319094,GSE54568,BA9,MDD,HU803,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_F #5,18,803,"Major Depressive Disorder, recurrent, in partial remission",Accidental,Trauma,F,65,W,18,7,1.9,9,R,D O,N
+GSM1319095,GSE54568,BA9,MDD,HU860,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_F #6,19,860,"Major Depressive Disorder, recurrent; severe with psychotic features",Natural,ASCVD,F,74,W,22.8,7,1.2,8.1,R,B D O P,Y
+GSM1319096,GSE54568,BA9,MDD,HU934,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_F #8,45,934,"Major Depressive Disorder, recurrent, severe with psychotic features",Natural,ASCVD,F,54,W,17.9,6.5,1.2,8.2,R,D O,N
+GSM1319097,GSE54568,BA9,MDD,HU967,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_F #9,20,967,"Major Depressive Disorder, recurrent, moderate; ADC",Natural,ASCVD,F,40,W,22.2,6.6,1.6,7.4,R,N,Y
+GSM1319098,GSE54568,BA9,MDD,HU986,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_F #10,21,986,"Major Depressive Disorder, recurrent, severe without psychotic features",Natural,Bronchial asthma,F,53,W,11.9,6.7,1.8,8.7,R,D O,N
+GSM1319099,GSE54568,BA9,MDD,HU1041,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_F #12,23,1041,"Major Depressive Disorder, recurrent, severe with psychotic features; AAC; ODC",Accidental,Combined drug overdose,F,52,W,10.3,6.5,1.5,8.4,R,B D O P,Y
+GSM1319100,GSE54568,BA9,MDD,HU1143,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_F #13,24,1143,"Major Depressive Disorder, recurrent, severe without psychotic features; ADR; ODC",Accidental,Combined drug overdose,F,49,W,23.4,6.4,1.8,8.1,R,B D O,Y
+GSM1319101,GSE54568,BA9,MDD,HU1157,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_F #14,25,1157,"Major Depressive Disorder, recurrent, severe without psychotic features",Suicide,Hanging,F,26,W,13.4,6.4,1.5,7.8,R,D,N
+GSM1319102,GSE54568,BA9,MDD,HU1190,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_F #16,27,1190,"Major Depressive Disorder, recurrent, severe without psychotic features; ADC",Suicide,Asphyxiation,F,47,W,22.3,6.6,1.6,8,R,N,Y
+GSM1319103,GSE54568,BA9,MDD,HU1221,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_F #17,28,1221,"Major Depressive Disorder, recurrent, severe without psychotic features",Natural,Pulmonary thrombosis,F,28,B,24.8,6.6,1.8,7.2,R,N,N
+GSM1319104,GSE54568,BA9,MDD,HU1249,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_F #19,30,1249,"Major Depressive Disorder, recurrent, moderate; ODR",Accidental,Combined drug overdose,F,40,W,11.2,6.5,2,9,M,B C D O,Y
+GSM1319105,GSE54568,BA9,MDD,HU1254,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_F #21,32,1254,"Major Depressive Disorder, recurrent, severe without psychotic features",Suicide,Incised wounds,F,39,W,12.8,6.4,1.9,9,R,D,N
+GSM1319106,GSE54568,BA9,MDD,HU1272,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_F #24,35,1272,"Major Depressive Disorder, recurrent, unspecified; ADC; ODC",Accidental,Asphyxiation,F,64,W,12.1,6.6,1.4,7.8,R,B C D O,Y
+GSM1319107,GSE54568,BA9,MDD,HU1408,MDD matched sample pair brain dorsolateral prefrontal cortex BA9_F #28,39,1408,"Major Depressive Disorder, recurrent, severe without psychotic features; ADC",Accidental,Trauma,F,37,W,15.5,6.6,1.6,7,R,B D O,N
+GSM1319142,GSE54571,ACC,Control,HU731,Control matched sample pair brain anterior cingulate cortex ACC_F #3,17,731,none,Natural,ASCVD,F,63,W,10.5,6.8,1.6,8.2,L,N,Y
+GSM1319143,GSE54571,ACC,Control,HU1466,Control matched sample pair brain anterior cingulate cortex ACC_F #5,18,1466,none,Accidental,Trauma,F,64,B,20,6.7,2,8.8,R,O,N
+GSM1319144,GSE54571,ACC,Control,HU1247,Control matched sample pair brain anterior cingulate cortex ACC_F #8,45,1247,none,Natural,ASCVD,F,58,W,22.7,6.4,1.3,8.4,R,O ,N
+GSM1319145,GSE54571,ACC,Control,HU1282,Control matched sample pair brain anterior cingulate cortex ACC_F #9,20,1282,none,Natural,ASCVD,F,39,W,24.5,6.8,1.3,7.5,R,N,N
+GSM1319146,GSE54571,ACC,Control,HU575,Control matched sample pair brain anterior cingulate cortex ACC_F #10,21,575,none,Natural,ASCVD,F,55,B,11.3,6.8,1.8,9.6,R,U,U
+GSM1319147,GSE54571,ACC,Control,HU1391,Control matched sample pair brain anterior cingulate cortex ACC_F #12,23,1391,none,Natural,ASCVD,F,51,W,7.8,6.6,1.6,7.1,L,O,Y
+GSM1319148,GSE54571,ACC,Control,HU686,Control matched sample pair brain anterior cingulate cortex ACC_F #13,24,686,none,Natural,ASCVD,F,52,W,22.6,7.1,1.9,8.5,R,O,Y
+GSM1319149,GSE54571,ACC,Control,HU1034,Control matched sample pair brain anterior cingulate cortex ACC_F #14,25,1034,none,Natural,Endocardial fibroelastosis,F,23,W,8.5,7,2,7.8,R,N,N
+GSM1319150,GSE54571,ACC,Control,HU567,Control matched sample pair brain anterior cingulate cortex ACC_F #16,27,567,none,Natural,Mitral Valve Prolapse,F,46,W,15,6.8,2.3,8.9,R,N,U
+GSM1319151,GSE54571,ACC,Control,HU546,Control matched sample pair brain anterior cingulate cortex ACC_F #17,28,546,Unconfirmed: 'Control' ,Natural,ASCVD,F,37,W,23.5,6.7,2,8.6,U,U,U
+GSM1319152,GSE54571,ACC,Control,HU1092,Control matched sample pair brain anterior cingulate cortex ACC_F #19,30,1092,none,Natural,Mitral Valve Prolapse,F,40,B,16.6,6.8,1.7,8,R,O,N
+GSM1319153,GSE54571,ACC,Control,HU1403,Control matched sample pair brain anterior cingulate cortex ACC_F #21,32,1403,"Adjustment Disorder with mixed anxiety & depressed mood, in remission (8 months)",Natural,ASCVD,F,45,W,12.3,6.7,1.8,8.2,R,O,Y
+GSM1319154,GSE54571,ACC,Control,HU1293,Control matched sample pair brain anterior cingulate cortex ACC_F #24,35,1293,none,Accidental,Trauma,F,65,W,18.5,6.6,1.3,7,R,N,N
+GSM1319155,GSE54571,ACC,MDD,HU565,MDD matched sample pair brain anterior cingulate cortex ACC_F #3,17,565,"Major Depressive Disorder, recurrent, severe without psychotic features; AAC; ODR",Suicide,Gunshot,F,62,W,12.5,6.9,2,9.2,L,D,N
+GSM1319156,GSE54571,ACC,MDD,HU803,MDD matched sample pair brain anterior cingulate cortex ACC_F #5,18,803,"Major Depressive Disorder, recurrent, in partial remission",Accidental,Trauma,F,65,W,18,7,1.9,9,R,D O,N
+GSM1319157,GSE54571,ACC,MDD,HU934,MDD matched sample pair brain anterior cingulate cortex ACC_F #8,45,934,"Major Depressive Disorder, recurrent, severe with psychotic features",Natural,ASCVD,F,54,W,17.9,6.5,1.2,8.2,R,D O,N
+GSM1319158,GSE54571,ACC,MDD,HU967,MDD matched sample pair brain anterior cingulate cortex ACC_F #9,20,967,"Major Depressive Disorder, recurrent, moderate; ADC",Natural,ASCVD,F,40,W,22.2,6.6,1.6,7.4,R,N,Y
+GSM1319159,GSE54571,ACC,MDD,HU986,MDD matched sample pair brain anterior cingulate cortex ACC_F #10,21,986,"Major Depressive Disorder, recurrent, severe without psychotic features",Natural,Bronchial asthma,F,53,W,11.9,6.7,1.8,8.7,R,D O,N
+GSM1319160,GSE54571,ACC,MDD,HU1041,MDD matched sample pair brain anterior cingulate cortex ACC_F #12,23,1041,"Major Depressive Disorder, recurrent, severe with psychotic features; AAC; ODC",Accidental,Combined drug overdose,F,52,W,10.3,6.5,1.5,8.4,R,B D O P,Y
+GSM1319161,GSE54571,ACC,MDD,HU1143,MDD matched sample pair brain anterior cingulate cortex ACC_F #13,24,1143,"Major Depressive Disorder, recurrent, severe without psychotic features; ADR; ODC",Accidental,Combined drug overdose,F,49,W,23.4,6.4,1.8,8.1,R,B D O,Y
+GSM1319162,GSE54571,ACC,MDD,HU1157,MDD matched sample pair brain anterior cingulate cortex ACC_F #14,25,1157,"Major Depressive Disorder, recurrent, severe without psychotic features",Suicide,Hanging,F,26,W,13.4,6.4,1.5,7.8,R,D,N
+GSM1319163,GSE54571,ACC,MDD,HU1190,MDD matched sample pair brain anterior cingulate cortex ACC_F #16,27,1190,"Major Depressive Disorder, recurrent, severe without psychotic features; ADC",Suicide,Asphyxiation,F,47,W,22.3,6.6,1.6,8,R,N,Y
+GSM1319164,GSE54571,ACC,MDD,HU1221,MDD matched sample pair brain anterior cingulate cortex ACC_F #17,28,1221,"Major Depressive Disorder, recurrent, severe without psychotic features",Natural,Pulmonary thrombosis,F,28,B,24.8,6.6,1.8,7.2,R,N,N
+GSM1319165,GSE54571,ACC,MDD,HU1249,MDD matched sample pair brain anterior cingulate cortex ACC_F #19,30,1249,"Major Depressive Disorder, recurrent, moderate; ODR",Accidental,Combined drug overdose,F,40,W,11.2,6.5,2,9,M,B C D O,Y
+GSM1319166,GSE54571,ACC,MDD,HU1254,MDD matched sample pair brain anterior cingulate cortex ACC_F #21,32,1254,"Major Depressive Disorder, recurrent, severe without psychotic features",Suicide,Incised wounds,F,39,W,12.8,6.4,1.9,9,R,D,N
+GSM1319167,GSE54571,ACC,MDD,HU1272,MDD matched sample pair brain anterior cingulate cortex ACC_F #24,35,1272,"Major Depressive Disorder, recurrent, unspecified; ADC; ODC",Accidental,Asphyxiation,F,64,W,12.1,6.6,1.4,7.8,R,B C D O,Y
+GSM1319116,GSE54570,BA9,Control,HU327,Control matched sample pair brain dorsolateral prefrontal cortex NY_BA9 #1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319117,GSE54570,BA9,Control,HU415,Control matched sample pair brain dorsolateral prefrontal cortex NY_BA9 #2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319118,GSE54570,BA9,Control,HU287,Control matched sample pair brain dorsolateral prefrontal cortex NY_BA9 #3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319119,GSE54570,BA9,Control,HU528,Control matched sample pair brain dorsolateral prefrontal cortex NY_BA9 #4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319120,GSE54570,BA9,Control,HU545,Control matched sample pair brain dorsolateral prefrontal cortex NY_BA9 #5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319121,GSE54570,BA9,Control,HU546,Control matched sample pair brain dorsolateral prefrontal cortex NY_BA9 #6,28,546,Unconfirmed: 'Control' ,Natural,ASCVD,F,37,W,23.5,6.7,2,8.6,U,U,U
+GSM1319122,GSE54570,BA9,Control,HU237,Control matched sample pair brain dorsolateral prefrontal cortex NY_BA9 #7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319123,GSE54570,BA9,Control,HU262,Control matched sample pair brain dorsolateral prefrontal cortex NY_BA9 #8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319124,GSE54570,BA9,Control,HU542,Control matched sample pair brain dorsolateral prefrontal cortex NY_BA9 #9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319125,GSE54570,BA9,Control,HU432,Control matched sample pair brain dorsolateral prefrontal cortex NY_BA9 #10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319126,GSE54570,BA9,Control,HU315,Control matched sample pair brain dorsolateral prefrontal cortex NY_BA9 #11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319127,GSE54570,BA9,Control,HU316,Control matched sample pair brain dorsolateral prefrontal cortex NY_BA9 #12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319128,GSE54570,BA9,Control,HU530,Control matched sample pair brain dorsolateral prefrontal cortex NY_BA9 #13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319129,GSE54570,BA9,MDD,HU203,MDD matched sample pair brain dorsolateral prefrontal cortex NY_BA9 #1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319130,GSE54570,BA9,MDD,HU300,MDD matched sample pair brain dorsolateral prefrontal cortex NY_BA9 #2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319131,GSE54570,BA9,MDD,HU374,MDD matched sample pair brain dorsolateral prefrontal cortex NY_BA9 #3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319132,GSE54570,BA9,MDD,HU364,MDD matched sample pair brain dorsolateral prefrontal cortex NY_BA9 #4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319133,GSE54570,BA9,MDD,HU383,MDD matched sample pair brain dorsolateral prefrontal cortex NY_BA9 #5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319134,GSE54570,BA9,MDD,HU443,MDD matched sample pair brain dorsolateral prefrontal cortex NY_BA9 #6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319135,GSE54570,BA9,MDD,HU307,MDD matched sample pair brain dorsolateral prefrontal cortex NY_BA9 #7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319136,GSE54570,BA9,MDD,HU425,MDD matched sample pair brain dorsolateral prefrontal cortex NY_BA9 #8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319137,GSE54570,BA9,MDD,HU377,MDD matched sample pair brain dorsolateral prefrontal cortex NY_BA9 #9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319138,GSE54570,BA9,MDD,HU445,MDD matched sample pair brain dorsolateral prefrontal cortex NY_BA9 #10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319139,GSE54570,BA9,MDD,HU406,MDD matched sample pair brain dorsolateral prefrontal cortex NY_BA9 #11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319140,GSE54570,BA9,MDD,HU385,MDD matched sample pair brain dorsolateral prefrontal cortex NY_BA9 #12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319141,GSE54570,BA9,MDD,HU077,MDD matched sample pair brain dorsolateral prefrontal cortex NY_BA9 #13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319217,GSE54575,BA47,Control,HU327,Control matched sample pair brain orbital ventral prefrontal cortex NY_BA47 #1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319218,GSE54575,BA47,Control,HU528,Control matched sample pair brain orbital ventral prefrontal cortex NY_BA47 #2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319219,GSE54575,BA47,Control,HU545,Control matched sample pair brain orbital ventral prefrontal cortex NY_BA47 #3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319220,GSE54575,BA47,Control,HU546,Control matched sample pair brain orbital ventral prefrontal cortex NY_BA47 #4,28,546,Unconfirmed: 'Control' ,Natural,ASCVD,F,37,W,23.5,6.7,2,8.6,U,U,U
+GSM1319221,GSE54575,BA47,Control,HU237,Control matched sample pair brain orbital ventral prefrontal cortex NY_BA47 #5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319222,GSE54575,BA47,Control,HU262,Control matched sample pair brain orbital ventral prefrontal cortex NY_BA47 #6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319223,GSE54575,BA47,Control,HU542,Control matched sample pair brain orbital ventral prefrontal cortex NY_BA47 #7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319224,GSE54575,BA47,Control,HU432,Control matched sample pair brain orbital ventral prefrontal cortex NY_BA47 #8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319225,GSE54575,BA47,Control,HU315,Control matched sample pair brain orbital ventral prefrontal cortex NY_BA47 #9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319226,GSE54575,BA47,Control,HU271,Control matched sample pair brain orbital ventral prefrontal cortex NY_BA47 #10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319227,GSE54575,BA47,Control,HU316,Control matched sample pair brain orbital ventral prefrontal cortex NY_BA47 #11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319228,GSE54575,BA47,Control,HU530,Control matched sample pair brain orbital ventral prefrontal cortex NY_BA47 #12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319229,GSE54575,BA47,MDD,HU297,MDD matched sample pair brain orbital ventral prefrontal cortex NY_BA47 #1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319230,GSE54575,BA47,MDD,HU203,MDD matched sample pair brain orbital ventral prefrontal cortex NY_BA47 #2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319231,GSE54575,BA47,MDD,HU300,MDD matched sample pair brain orbital ventral prefrontal cortex NY_BA47 #3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319232,GSE54575,BA47,MDD,HU364,MDD matched sample pair brain orbital ventral prefrontal cortex NY_BA47 #4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319233,GSE54575,BA47,MDD,HU383,MDD matched sample pair brain orbital ventral prefrontal cortex NY_BA47 #5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319234,GSE54575,BA47,MDD,HU307,MDD matched sample pair brain orbital ventral prefrontal cortex NY_BA47 #6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319235,GSE54575,BA47,MDD,HU425,MDD matched sample pair brain orbital ventral prefrontal cortex NY_BA47 #7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319236,GSE54575,BA47,MDD,HU377,MDD matched sample pair brain orbital ventral prefrontal cortex NY_BA47 #8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319237,GSE54575,BA47,MDD,HU445,MDD matched sample pair brain orbital ventral prefrontal cortex NY_BA47 #9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319238,GSE54575,BA47,MDD,HU406,MDD matched sample pair brain orbital ventral prefrontal cortex NY_BA47 #10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319239,GSE54575,BA47,MDD,HU385,MDD matched sample pair brain orbital ventral prefrontal cortex NY_BA47 #11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GSM1319240,GSE54575,BA47,MDD,HU077,MDD matched sample pair brain orbital ventral prefrontal cortex NY_BA47 #12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

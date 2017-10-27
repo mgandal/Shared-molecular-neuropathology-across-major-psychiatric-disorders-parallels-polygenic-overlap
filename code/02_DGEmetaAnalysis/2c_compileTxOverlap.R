@@ -327,26 +327,3 @@ tableS1 = cbind(bm, tableS1)
 write.csv(file="./results/tables/Manuscript/TableS1 - Microarray Meta-Analyses.csv", tableS1)
 
 
-
-#Plot SCZ-BD and SCZ-ASD Tx Overlap Colored by Cell-Type
-load("./working_data//NetworkAnalysis/finalizedNetwork_092017.RData")
-dat = data.frame(allmeta); dat$Colors = factor(colors[match(rownames(allmeta),datProbes$ensembl_gene_id)]); 
-dat$Cell[dat$Colors == "yellow"]= "Astrocyte"
-dat$Cell[dat$Colors == "greenyellow"]= "Microglia"
-dat$Cell[dat$Colors == "brown"]= "Oligodendrocyte"
-dat$Cell[dat$Colors == "tan"]= "Endothelial"
-dat$Cell[dat$Colors %in% c("green", "purple", "salmon", "turquoise")]= "Neuron"
-
-dat2 = melt(dat[,c(1:3)],id=2)
-dat2$CellType = c(dat$Cell,dat$Cell)
-
-FigS15=ggplot(dat2,aes(x=SCZ,y=value,color=CellType)) +   
-  xlim(c(-.5,.5))  + 
-  geom_point(alpha=.5,size=2) +   
-  scale_colour_discrete(name="CellType") +
-  labs(x="SCZ log2FC", y="Diseae2 log2FC") +  
-  facet_wrap(~variable,scales="free")+
-  geom_hline(yintercept = 0, lty=2) + geom_vline(xintercept = 0, lty=2) + 
-  theme(strip.text.x = element_text(size = 12))
-  
-ggsave(file="./results/figures/Manuscript/FigS15.pdf", FigS15, width=8, height=4)
